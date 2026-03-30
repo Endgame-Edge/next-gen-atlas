@@ -28900,6 +28900,10 @@ The documents herein organize all base information relevant to Groves usage of t
 
 This document contains a Directory of all Instances of the Distribution Reward Primitive with Instance status of `Active`.
 
+###### A.6.1.1.2.2.5.1.1.2.1 - Grove Finance Instance Configuration Document Location [Core] <!-- UUID: ff5b7e0c-7b44-4cff-a978-05e33478ce16 -->
+
+This Instance’s associated Instance Configuration Document is located at [A.6.1.1.2.2.5.1.2.1 - Grove Finance Instance Configuration Document](d0028187-de9f-4401-b022-a53624902aef)
+
 ###### A.6.1.1.2.2.5.1.1.3 - Completed Instances Directory [Core]  <!-- UUID: 11f1f7ba-82ed-4d1e-a457-344406a158f3 -->
 
 This document contains a Directory of all Instances of the Distribution Reward Primitive with Instance status of `Completed`.
@@ -28927,6 +28931,79 @@ The subtrees for Instances of the Distribution Reward Primitive with `Suspended`
 ###### A.6.1.1.2.2.5.1.2 - Active Instances [Core]  <!-- UUID: a4df61c2-514e-46e4-a84d-d2782f2f183f -->
 
 The Instances of the Distribution Reward Primitive with `Active` Status are stored herein.
+
+###### A.6.1.1.2.2.5.1.2.1 - Grove Finance Instance Configuration Document [Core] <!-- UUID: d0028187-de9f-4401-b022-a53624902aef -->
+
+The documents herein contain the Instance Configuration Document for the Grove Finance Distribution Reward Primitive Instance.
+
+###### A.6.1.1.2.2.5.1.2.1.1 - Parameters [Core] <!-- UUID: 3aabd49b-16c6-459b-a1e5-a0660d93febc -->
+
+The documents herein define the parameters of the Grove Finance Instance of the Distribution Reward Primitive.
+
+###### A.6.1.1.2.2.5.1.2.1.1.1 - Reward Code [Core] <!-- UUID: b0260719-445d-4436-919a-4cb4aa3ff5f2 -->
+
+`2002`.
+
+###### A.6.1.1.2.2.5.1.2.1.1.2 - Tracking Methodology [Core] <!-- UUID: 2dd624f3-077a-4eb5-8451-ba9a3517b0e5 -->
+
+This Instance uses the Tracking Methodology specified in [A.2.2.8.1.2.1.2.2.1 - Ethereum Mainnet General Tracking Methodology](87fd6861-ba8a-4bde-945e-ee9ad37ae3e2).
+
+###### A.6.1.1.2.2.5.1.2.1.1.3 - Custom Instance Parameters [Core]  <!-- UUID: fe0fb1fe-7116-4959-8acd-727aa5829958 -->
+
+The documents herein define the custom parameters of the Grove Finance Instance of the Distribution Reward Primitive, if any.
+
+###### A.6.1.1.2.2.5.1.2.1.2 - Operational Process Definition [Core]  <!-- UUID: d61958cd-83ea-4381-b570-ce8f3ea26800 -->
+
+The documents herein define the process for the ongoing management of the Grove Finance Instance of the Distribution Reward Primitive.
+
+###### A.6.1.1.2.2.5.1.2.1.2.1 - Routine Protocol [Core]  <!-- UUID: 24a10288-b3f2-49e3-9ef0-3101ef68907a -->
+
+This document defines the protocol for routine ongoing management of the Grove Finance Instance. This Instance inherits the base class of operational logic defined in [A.2.2.8.1.2.4.1 - Routine Protocol](c2abdd22-fe0f-489e-b281-450e066db701), subject to the qualifications specified in [A.2.2.8.1.2.1.4.3.1 - Near-Term Process](05fb732b-de55-4886-81a7-7c5d4c13d2d2).
+
+Modifications to the base operational logic automatically propagate to this Instance. In future iterations of the Grove Artifact, a version of the full process definition customized to Grove will be included herein.
+
+###### A.6.1.1.2.2.5.1.2.1.2.1.1 - Agent Customizations [Core]  <!-- UUID: 012c6838-b343-45d4-ae84-4aeafd5115d2 -->
+
+The Prime Agent may define instance-specific customization of the routine protocol to extend the baseline functionality defined in the Sky Core Atlas. This can include custom routines or processes layered on top of the inherited Sky Core logic. Any extensions must remain fully aligned with the requirements specified in the Sky Core Atlas. This document defines those customizations, if any.
+
+[No customization presently.]
+
+###### A.6.1.1.2.2.5.1.2.1.2.2 - Non-Routine Protocol [Core]  <!-- UUID: a9b0429b-bb8c-42a1-991c-008fc272e5f4 -->
+
+The documents herein define the protocol for non-routine ongoing management of the Grove Finance Instance of this Distribution Reward Primitive.
+
+###### A.6.1.1.2.2.5.1.2.1.2.3 - Emergency Protocol [Core]  <!-- UUID: 3d6fc469-bbfb-409f-af80-6cb8a6dd5b3c -->
+
+The documents herein define the protocol for handling emergency situations in the ongoing management of the Grove Finance Instance of this Distribution Reward Primitive.
+
+###### A.6.1.1.2.2.5.1.2.1.3 - Data Repository [Core]  <!-- UUID: f1cdc7e1-1947-4e76-bdb5-61e5c077f898 -->
+
+The documents herein contain data relevant to the Grove Finance Instance of the Distribution Reward Primitive.
+
+###### A.6.1.1.2.2.5.1.2.1.3.1 - Initial Planning [Core]  <!-- UUID: b549a410-1583-4840-b6bf-5073902e446a -->
+
+The materials associated with initial planning of the Invocation of this Instance are contained herein.
+
+###### A.6.1.1.2.2.5.1.2.1.3.2 - Operational GovOps Review [Core]  <!-- UUID: 63f4cb3b-c04b-4e2a-8d34-d8a143323b2f -->
+
+The materials associated with Operational GovOps Review during the Invocation of this Instance are contained herein.
+
+###### A.6.1.1.2.2.5.1.2.1.3.3 - Artifact Edit Proposal [Core]  <!-- UUID: eeea85f4-a492-4d50-bd59-e1aba8e5dee4 -->
+
+The materials associated with preparing the Artifact Edit Proposal during the Invocation of this Instance are contained herein.
+
+###### A.6.1.1.2.2.5.1.2.1.3.4 - Distribution Reward Payments [Active Data Controller]  <!-- UUID: 2e7e5ef0-1dcf-4c75-a984-323e7df4079f -->
+
+The Distribution Reward payments for the Grove Finance Instance of the Distribution Reward Primitive are defined as Active Data.
+
+The Active Data is updated as follows:
+
+- The Responsible Party is Operational GovOps.
+- The Update Process must follow the protocol for ‘Direct Edit’.
+
+###### A.6.1.1.2.2.5.1.2.1.3.4.0.6.1 - List Of Distribution Reward Payments [Active Data]  <!-- UUID: 2ab04a83-fd25-4539-b7fc-8b61072f0423 -->
+
+The Distribution Reward Payments are:
 
 ###### A.6.1.1.2.2.5.1.3 - Completed Instances [Core]  <!-- UUID: cca65b4d-5cf9-449e-9178-195b611ddc06 -->
 
