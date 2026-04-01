@@ -9174,7 +9174,7 @@ The documents herein provide an introduction to the Pioneer Chain Primitive.
 
 ###### A.2.2.8.3.1.1 - Pioneer Prime Requirements [Core]  <!-- UUID: 219459b3-8333-4e9a-9b79-55e0c20d6dbb -->
 
-Pioneer Primes must be designated by the official team or foundation of the Pioneer Chain, they must be created for the specific purpose of being a Pioneer Prime from their genesis moment, and it is only possible for a Pioneer Chain to have Pioneer Prime once, and for a Pioneer Prime to have the Pioneer Prime status with a single blockchain, once.
+Pioneer Primes must be designated by the official team or foundation of the Pioneer Chain. It is only possible for a Pioneer Chain to have a Pioneer Prime once, and for a Pioneer Prime to have the Pioneer Prime status with a single blockchain, once.
 
 ###### A.2.2.8.3.1.2 - Pioneer Prime Designation Process [Core]  <!-- UUID: d6d16076-da22-43f1-a303-627af41b486c -->
 
@@ -29055,6 +29055,8 @@ Avalanche
 
 ###### A.6.1.1.2.2.5.3.2.1.1.2 - Pioneer Incentive Pool [Core]  <!-- UUID: d75fb1aa-0be0-4421-9457-f62f0f28c901 -->
 
+The documents herein contain the terms that govern this instance's Pioneer Incentive Pool and the address thereof.
+
 ###### A.6.1.1.2.2.5.3.2.1.1.2.1 - Address [Core]  <!-- UUID: 3acfe4f2-6d95-4ceb-9ace-6b807c9cb002 -->
 
 `tbd`
@@ -29062,6 +29064,14 @@ Avalanche
 ###### A.6.1.1.2.2.5.3.2.1.1.2.2 - Terms [Core]  <!-- UUID: 68bf4065-8cf9-4766-ab47-14bcf406a554 -->
 
 The Pioneer Incentive Pool for this Instance is governed by the terms specified in [A.2.2.8.3.1.4 - Pioneer Incentive Pool](04edac33-19d5-4a87-a8ab-945a0cd57771).
+
+###### A.6.1.1.2.2.5.3.2.1.2 - Operational Process Definition [Core]  <!-- UUID: b23c23e1-e939-4952-aa48-ce85a52bf8fd -->
+
+The documents herein define the process for the ongoing management of the Single Instance of the Pioneer Chain Primitive.
+
+###### A.6.1.1.2.2.5.3.2.1.3 - Data Repository [Core]  <!-- UUID: b1de7704-6600-43cf-aaee-ebbb84000025 -->
+
+The documents herein contain data relevant to the Single Instance of the Pioneer Chain Primitive.
 
 ###### A.6.1.1.2.2.5.3.3 - Completed Instances [Core]  <!-- UUID: ad66bcf7-bd92-4c71-be17-89310e6d0a83 -->
 
