@@ -9194,6 +9194,7 @@ The Active Data is updated as follows:
 The current Active Pioneer Primes are:
 
 - Keel
+- Grove
 
 ###### A.2.2.8.3.1.3 - Pioneer Prime Benefits [Core]  <!-- UUID: f0d5ab5e-bf35-4a9d-a73f-d82baac6e604 -->
 
@@ -28998,11 +28999,15 @@ The documents herein organize all base information relevant to Grove’s usage o
 
 ###### A.6.1.1.2.2.5.3.1.1 - Global Activation Status [Core]  <!-- UUID: 180defb8-541e-4de9-a7a5-d117144af928 -->
 
-`Inactive`
+`Active`
 
 ###### A.6.1.1.2.2.5.3.1.2 - Active Instances Directory [Core]  <!-- UUID: d9fca80a-1cbc-413b-83ca-3c19428732e7 -->
 
 This document contains a Directory of all Instances of the Pioneer Chain Primitive with Instance status of `Active`.
+
+###### A.6.1.1.2.2.5.3.1.2.1 - Avalanche Instance Configuration Document Location [Core]  <!-- UUID: fa9f30c5-fd25-4c2c-bb02-cb7eea4b4f1a -->
+
+This Instance’s associated Instance Configuration Document is located at [A.6.1.1.2.2.5.3.2.1 - Avalanche Instance Configuration Document](6725a50b-65fc-4eac-a36d-7cf527ca5372).
 
 ###### A.6.1.1.2.2.5.3.1.3 - Completed Instances Directory [Core]  <!-- UUID: f1007e17-0599-455f-8afb-f5e965a12683 -->
 
@@ -29031,6 +29036,32 @@ The subtrees for Instances of the Pioneer Chain Primitive with `Suspended` Statu
 ###### A.6.1.1.2.2.5.3.2 - Active Instances [Core]  <!-- UUID: 33a1baf4-9922-40a1-b121-558f620da186 -->
 
 The Instances of the Pioneer Chain Primitive with `Active` Status are stored herein.
+
+###### A.6.1.1.2.2.5.3.2.1 - Avalanche Instance Configuration Document [Core]  <!-- UUID: 6725a50b-65fc-4eac-a36d-7cf527ca5372 -->
+
+The documents herein contain the Instance Configuration Document for the Avalanche Pioneer Chain Primitive.
+
+###### A.6.1.1.2.2.5.3.2.1.1 - Parameters [Core]  <!-- UUID: 80b718af-9dc0-45d7-93c6-d14fde054a4b -->
+
+The documents herein define the parameters of the Avalanche Instance of the Pioneer Chain Primitive.
+
+###### A.6.1.1.2.2.5.3.2.1.1.1 - Instance Identifiers [Core]  <!-- UUID: 81a71e66-c191-4839-a71d-6b583b772b77 -->
+
+The documents herein define the Instance identifiers.
+
+###### A.6.1.1.2.2.5.3.2.1.1.1.1 - Network [Core]  <!-- UUID: 83b6da1e-acef-4a25-be30-fd24c3d38253 -->
+
+Avalanche
+
+###### A.6.1.1.2.2.5.3.2.1.1.2 - Pioneer Incentive Pool [Core]  <!-- UUID: d75fb1aa-0be0-4421-9457-f62f0f28c901 -->
+
+###### A.6.1.1.2.2.5.3.2.1.1.2.1 - Address [Core]  <!-- UUID: 3acfe4f2-6d95-4ceb-9ace-6b807c9cb002 -->
+
+`tbd`
+
+###### A.6.1.1.2.2.5.3.2.1.1.2.2 - Terms [Core]  <!-- UUID: 68bf4065-8cf9-4766-ab47-14bcf406a554 -->
+
+The Pioneer Incentive Pool for this Instance is governed by the terms specified in [A.2.2.8.3.1.4 - Pioneer Incentive Pool](04edac33-19d5-4a87-a8ab-945a0cd57771).
 
 ###### A.6.1.1.2.2.5.3.3 - Completed Instances [Core]  <!-- UUID: ad66bcf7-bd92-4c71-be17-89310e6d0a83 -->
 
