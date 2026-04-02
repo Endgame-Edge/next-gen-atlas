@@ -29039,7 +29039,7 @@ The Instances of the Pioneer Chain Primitive with `Active` Status are stored her
 
 ###### A.6.1.1.2.2.5.3.2.1 - Avalanche Instance Configuration Document [Core]  <!-- UUID: 6725a50b-65fc-4eac-a36d-7cf527ca5372 -->
 
-The documents herein contain the Instance Configuration Document for the Avalanche Pioneer Chain Primitive.
+The documents herein contain the Instance Configuration Document for the Avalanche Instance of the Pioneer Chain Primitive.
 
 ###### A.6.1.1.2.2.5.3.2.1.1 - Parameters [Core]  <!-- UUID: 80b718af-9dc0-45d7-93c6-d14fde054a4b -->
 
@@ -29055,7 +29055,7 @@ Avalanche
 
 ###### A.6.1.1.2.2.5.3.2.1.1.2 - Pioneer Incentive Pool [Core]  <!-- UUID: d75fb1aa-0be0-4421-9457-f62f0f28c901 -->
 
-The documents herein contain the terms that govern this instance's Pioneer Incentive Pool and the address thereof.
+The documents herein contain the terms that govern this Instance's Pioneer Incentive Pool and its address.
 
 ###### A.6.1.1.2.2.5.3.2.1.1.2.1 - Address [Core]  <!-- UUID: 3acfe4f2-6d95-4ceb-9ace-6b807c9cb002 -->
 
