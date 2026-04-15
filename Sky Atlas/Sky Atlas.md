@@ -28072,6 +28072,63 @@ Funds may be transferred to the designated address(es) provided by the custodian
 
 Funds may be transferred to the designated address for Spark Liquidity Layer at any time without restriction.
 
+###### A.6.1.1.1.3.9 - Artifact Maintenance [Core] <!--UUID: 9abe957a-4428-485a-8c3b-60bceae1521c -->
+
+Artifact maintenance aims to preserve or maximize artifact accuracy, completeness, and usability through artifact edits that comply with the restrictions laid down in [A.6.1.1.1.3.9.1 - Artifact Maintenance Restrictions](6ee982bf-ca52-4c79-a361-61ad9e970fa5).
+
+Operational Facilitators are authorized to maintain their assigned Agent artifacts via the procedure defined in [A.6.1.1.1.3.9.2 - Procedure](a4f7e705-fdb5-445f-927d-1ddd927ac40b).
+
+Artifact maintenance edits require no approving stakeholder vote.
+
+###### A.6.1.1.1.3.9.1 - Artifact Maintenance Restrictions [Core] <!--UUID: 6ee982bf-ca52-4c79-a361-61ad9e970fa5 -->
+
+Artifact maintenance edits are restricted to the following:
+
+- Typographical adjustments
+    - Letter case adjustments where:
+        1. Letter case deviates from the standard for a given term or expression.
+        2. Letter case deviates from standard English rules.
+        3. Letter case fails to reproduce the casing in the original proposal
+    - Punctuation adjustments where punctuation deviates from standard English rules
+- Format adjustments
+    1. Markdown fails to follow CommonMark rules
+    2. Format fails to reproduce the format in the original proposal
+- Grammatical adjustments
+    - Text deviates from standard English rules for morphology, syntax, or orthography
+- Structural adjustments
+    1. Document hierarchy, name or overall structures deviate from the standard for equivalent artifact sections
+    2. Structure fails to reproduce the structure in the original proposal
+- Delayed data inclusion upon availability, as defined in [A.6.1.1.1.3.9.1.1 - Delayed Data Definition](9168dcc8-30b2-47e7-9889-e53c6cd75bb9).
+- Changes that update obsolete entity names, document titles, or terms.
+
+Where criteria conflict within a given adjustment type, criteria listed first overrule criteria listed later.
+
+No artifact maintenance edit may introduce semantic changes, i.e., meaning, intent, and approved policies cannot be modified via artifact maintenance edits.
+
+### A.6.1.1.1.3.9.1.1 - Delayed Data Definition [Core] <!--UUID: 9168dcc8-30b2-47e7-9889-e53c6cd75bb9 -->
+
+Delayed data are data referenced in Root Edit Proposals which are unavailable at polling time. Delayed data are referenced via placeholders (e.g., "TBD") in Root Edit Proposals and associated pull requests.
+
+### A.6.1.1.1.3.9.2 - Procedure [Core] <!--UUID: a4f7e705-fdb5-445f-927d-1ddd927ac40b -->
+
+Operational Facilitators can perform artifact maintenance through the following procedure, which includes an objection mechanism that provides a check against errors in the application of the restrictions defined in [A.6.1.1.1.3.9.1 - Artifact Maintenance Restrictions](6ee982bf-ca52-4c79-a361-61ad9e970fa5):
+
+- Operational Facilitators must create a forum post under the concerned Agent category. The forum post must include:
+    - A list of the changes being introduced
+    - A rationale for each change
+    - A link to the pull request with the artifact maintenance edits
+    - The tagging of each Recognized Delegate
+- The pull request can be merged:
+    1. If and as soon as all Recognized Delegates approve of the artifact maintenance edits in public replies.
+    2. 72 hours after the time of the publication of the artifact maintenance forum post if there are no intervening objections in public replies by Recognized Delegates
+        - Should an objection be raised, it must be addressed in the original forum post as an edit in which the objecting Recognized Delegate is tagged
+        - The objecting Recognized Delegate has 24 hours since the time of the objection-addressing edit to object to it
+        - Should the objection-addressing edit go one day uncontested, tacit approval by the objecting Recognized Delegate will be assumed
+        - Objecting Recognized Delegates may approve objection-addressing edit sooner, whereby the pull request will be merged immediately if and only if all other conditions have been met
+        - The pull request cannot be merged earlier than 24 hours after the latest objection, unless all Recognized Delegates have approved
+
+Operational Facilitators may choose to withdraw an artifact maintenance edit at any point before it has been merged.
+
 #### A.6.1.1.2 - Grove [Core]  <!-- UUID: 727b0de6-095b-485e-bf9c-02108a364480 -->
 
 The documents herein specify all of the logic for Grove, including Grove’s strategy and how it uses the Sky Primitives to operationalize this strategy.
