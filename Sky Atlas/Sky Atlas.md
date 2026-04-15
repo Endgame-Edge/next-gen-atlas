@@ -28105,11 +28105,11 @@ Where criteria conflict within a given adjustment type, criteria listed first ov
 
 No artifact maintenance edit may introduce semantic changes, i.e., meaning, intent, and approved policies cannot be modified via artifact maintenance edits.
 
-### A.6.1.1.1.3.9.1.1 - Delayed Data Definition [Core] <!--UUID: 9168dcc8-30b2-47e7-9889-e53c6cd75bb9 -->
+###### A.6.1.1.1.3.9.1.1 - Delayed Data Definition [Core] <!--UUID: 9168dcc8-30b2-47e7-9889-e53c6cd75bb9 -->
 
 Delayed data are data referenced in Root Edit Proposals which are unavailable at polling time. Delayed data are referenced via placeholders (e.g., "TBD") in Root Edit Proposals and associated pull requests.
 
-### A.6.1.1.1.3.9.2 - Procedure [Core] <!--UUID: a4f7e705-fdb5-445f-927d-1ddd927ac40b -->
+###### A.6.1.1.1.3.9.2 - Procedure [Core] <!--UUID: a4f7e705-fdb5-445f-927d-1ddd927ac40b -->
 
 Operational Facilitators can perform artifact maintenance through the following procedure, which includes an objection mechanism that provides a check against errors in the application of the restrictions defined in [A.6.1.1.1.3.9.1 - Artifact Maintenance Restrictions](6ee982bf-ca52-4c79-a361-61ad9e970fa5):
 
