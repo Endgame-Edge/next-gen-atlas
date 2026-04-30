@@ -11813,7 +11813,7 @@ The address of Ozone's SubProxy Account will be specified in the Technical Scope
 
 The Genesis Capital Allocation will be used to fund Ozone's work in supporting the Agents that it serves as the Operational Executor Agent for.
 
-#### A.2.8.2.10 - Ecosystem Accord 10: Sky And Grove - Chronicle Point Farm Compensation [Core] <!-- UUID: 0cb00b28-12a8-4790-974a-a3d98fd4dc97 -->
+#### A.2.8.2.10 - Ecosystem Accord 10: Sky And Grove - Chronicle Point Reward Instance Compensation [Core] <!-- UUID: 0cb00b28-12a8-4790-974a-a3d98fd4dc97 -->
 
 The subdocuments herein record the terms of agreement between Sky and Grove as agreed in Ecosystem Accord 10.
 
@@ -11835,27 +11835,27 @@ The party 'Grove' comprises the Grove Prime Agent and Grove Foundation.
 
 ###### A.2.8.2.10.1.2 - Duration Of The Accord [Core] <!-- UUID: c7d102c8-3d5d-47c2-80a0-66a4c4ee7430 -->
 
-The duration of Ecosystem Accord 10 is indefinite, commencing retroactively from July 24th, 2025. The Accord remains in effect unless terminated or modified via an Atlas Edit.
+The duration of Ecosystem Accord 10 is indefinite, commencing retroactively from July 24, 2025. The Accord remains in effect unless terminated or modified via an Atlas Edit.
 
 ##### A.2.8.2.10.2 - Accord Substantive Terms [Core] <!-- UUID: c44e816f-dd67-4e35-aa4c-7098f159a05d -->
 
 The subdocuments herein set out the substantive terms of Ecosystem Accord 10.
 
-###### A.2.8.2.10.2.1 - Chronicle Point Farm Definition [Core] <!-- UUID: a7ccb2d1-970e-4b91-a430-4173ade00396 -->
+###### A.2.8.2.10.2.1 - Chronicle Point Reward Instance Definition [Core] <!-- UUID: a7ccb2d1-970e-4b91-a430-4173ade00396 -->
 
-The "Chronicle Point Farm" refers to the mechanism through which USDS is deposited to earn Chronicle Points in support of Chronicle, Sky's exclusive oracle provider. See [A.3.7.1.1.4 - Oracles](a38e05bf-0820-4916-a71c-cff4f54e45df).
+The "Chronicle Point Reward Instance" refers to the Ethereum mainnet reward mechanism through which USDS is deposited in Sky’s Rewards contract to accrue Chronicle Points. Onchain, this instance is the verified $\text{StakingRewards}$ contract at the address corresponding to the $\text{REWARDS\_USDS\_01}$ key in the Chainlog.
 
 ###### A.2.8.2.10.2.2 - Compensation Formula [Core] <!-- UUID: d4a5ce00-b041-4e9d-9bed-23253aba1b01 -->
 
 Sky will pay Grove ongoing compensation in USDS, calculated as follows:
 
-$$
-\text{Chronicle\_Point\_Farm\_USDS\_Deposited} \times 20\% \times \text{Base\_Rate}
-$$
+$
+\text{Chronicle\_Point\_Reward\_Instance\_USDS\_Deposited} \times 20\% \times \text{Base\_Rate}
+$
 
 where:
 
-- $\text{Chronicle\_Point\_Farm\_USDS\_Deposited}$ is the total amount of USDS deposited in the Chronicle Point Farm at the time of calculation;
+- $\text{Chronicle\_Point\_Reward\_Instance\_USDS\_Deposited}$ is the total amount of USDS deposited in the Chronicle Point Reward Instance at the time of calculation;
 - $20\%$ is the fixed compensation percentage; and
 - $Base\_Rate$ is the Base Rate as defined in [A.3.1.2.1 - Base Rate](228f9955-6bba-4252-a101-5529e7a300b9).
 
@@ -11863,7 +11863,7 @@ This compensation recognizes Grove's role in promoting and supporting Chronicle 
 
 ###### A.2.8.2.10.2.3 - Accrual Method [Core] <!-- UUID: 4bed0292-a720-4306-b528-5d583fd4ead5 -->
 
-Compensation under this Accord accrues continuously on the basis of the USDS deposited in the Chronicle Point Farm and the Base Rate at each point in time. Where the Base Rate or the amount of USDS deposited changes during an accrual period, the compensation is calculated proportionally for each sub-period in which the relevant parameters remain constant.
+Compensation under this Accord accrues continuously on the basis of the USDS deposited in the Chronicle Point Reward Instance and the Base Rate at each point in time. Where the Base Rate or the amount of USDS deposited changes during an accrual period, the compensation is calculated proportionally for each sub-period in which the relevant parameters remain constant.
 
 ###### A.2.8.2.10.2.4 - Payment Frequency And Mechanism [Core] <!-- UUID: 31e070cf-2474-4815-a7da-350feaa97cc7 -->
 
@@ -11873,12 +11873,11 @@ $$
 \text{Monthly Settlement} = \sum \left[ \frac{\text{USDS\_Deposited (sub-period)} \times 0.20 \times \text{Base\_Rate (sub-period)}}{365} \times \text{Sub-Period\_Days} \right] 
 $$
 
-where sub-periods are defined by any change to the USDS deposited in the Chronicle Point Farm or the Base Rate during the settlement month, per the accrual method in [A.2.8.2.10.2.3 - Accrual Method](4bed0292-a720-4306-b528-5d583fd4ead5).
-Retroactive compensation from the commencement date of July 24th, 2025 through March 2026 shall be settled in the April 2026 MSC.
+where sub-periods are defined by any change to the USDS deposited in the Chronicle Point Reward Instance or the Base Rate during the settlement month, per the accrual method in [A.2.8.2.10.2.3 - Accrual Method](4bed0292-a720-4306-b528-5d583fd4ead5).
 
 ###### A.2.8.2.10.2.5 - Retroactive Compensation [Core] <!-- UUID: e19ba00b-8509-4cf1-b9af-20f16e9683f8 -->
 
-Grove is entitled to retroactive compensation for the period from July 24th, 2025 to March 31st, 2026.
+Grove is entitled to retroactive compensation for the period from July 24, 2025 to March 31, 2026, to be settled in the April 2026 Monthly Settlement Cycle.
 
 ### A.2.8.0.3.1 - Business Activities - Element Annotation [Annotation]  <!-- UUID: 31df7e2b-184f-428c-9c4f-23fd8054c5d3 -->
 
@@ -35847,7 +35846,7 @@ Grove engaged in terms of agreement with Sky, Moonbow and the Spark Agent in Eco
 
 ###### A.6.1.1.2.3.5.3 - Ecosystem Accord 10 [Core] <!-- UUID: e7057828-ca35-4c1f-8da9-05f54b73e25a -->
 
-Grove engaged in terms of agreement with Sky in Ecosystem Accord 10, located in [A.2.8.2.10 - Ecosystem Accord 10: Sky And Grove - Chronicle Point Farm Compensation](0cb00b28-12a8-4790-974a-a3d98fd4dc97).
+Grove engaged in terms of agreement with Sky in Ecosystem Accord 10, located in [A.2.8.2.10 - Ecosystem Accord 10: Sky And Grove - Chronicle Point Reward Instance Compensation](0cb00b28-12a8-4790-974a-a3d98fd4dc97).
 
 ###### A.6.1.1.2.3.6 - DAO Resolutions [Core]  <!-- UUID: c9c04069-134f-4ab3-b99c-e922edb1cde8 -->
 
