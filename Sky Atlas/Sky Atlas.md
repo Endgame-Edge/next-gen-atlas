@@ -11627,7 +11627,7 @@ The address of Ozone's SubProxy Account will be specified in the Technical Scope
 
 The Genesis Capital Allocation will be used to fund Ozone's work in supporting the Agents that it serves as the Operational Executor Agent for.
 
-#### A.2.8.2.10 - Ecosystem Accord 10: Sky And Grove - Chronicle Point Reward Instance Compensation [Core] <!-- UUID: 0cb00b28-12a8-4790-974a-a3d98fd4dc97 -->
+#### A.2.8.2.10 - Ecosystem Accord 10: Sky And Grove [Core] <!-- UUID: 0cb00b28-12a8-4790-974a-a3d98fd4dc97 -->
 
 The subdocuments herein record the terms of agreement between Sky and Grove as agreed in Ecosystem Accord 10.
 
@@ -11657,7 +11657,7 @@ The subdocuments herein set out the substantive terms of Ecosystem Accord 10.
 
 ###### A.2.8.2.10.2.1 - Chronicle Point Reward Instance Definition [Core] <!-- UUID: a7ccb2d1-970e-4b91-a430-4173ade00396 -->
 
-The "Chronicle Point Reward Instance" refers to the Ethereum mainnet reward mechanism through which USDS is deposited in Sky’s Rewards contract to accrue Chronicle Points. Onchain, this instance is the verified $\text{StakingRewards}$ contract at the address corresponding to the $\text{REWARDS\_USDS\_01}$ key in the Chainlog.
+The "Chronicle Point Reward Instance" refers to the Ethereum mainnet reward mechanism through which USDS is deposited in Sky’s Rewards contract to accrue Chronicle Points. Onchain, this instance is the verified `StakingRewards` contract at the address corresponding to the `REWARDS_USDS_01` key in the Chainlog.
 
 ###### A.2.8.2.10.2.2 - Compensation Formula [Core] <!-- UUID: d4a5ce00-b041-4e9d-9bed-23253aba1b01 -->
 
@@ -35938,7 +35938,7 @@ Grove engaged in terms of agreement with Sky, Moonbow and the Spark Agent in Eco
 
 ###### A.6.1.1.2.3.5.3 - Ecosystem Accord 10 [Core] <!-- UUID: e7057828-ca35-4c1f-8da9-05f54b73e25a -->
 
-Grove engaged in terms of agreement with Sky in Ecosystem Accord 10, located in [A.2.8.2.10 - Ecosystem Accord 10: Sky And Grove - Chronicle Point Reward Instance Compensation](0cb00b28-12a8-4790-974a-a3d98fd4dc97).
+Grove engaged in terms of agreement with Sky in Ecosystem Accord 10, located in [A.2.8.2.10 - Ecosystem Accord 10: Sky And Grove](0cb00b28-12a8-4790-974a-a3d98fd4dc97).
 
 ###### A.6.1.1.2.3.6 - DAO Resolutions [Core]  <!-- UUID: c9c04069-134f-4ab3-b99c-e922edb1cde8 -->
 
