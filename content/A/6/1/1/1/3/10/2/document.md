@@ -11,7 +11,7 @@ childType: sections_and_primary_docs
 
 The Operational Facilitator can perform artifact maintenance through the following procedure, which includes an objection mechanism that provides a check against errors in the application of the restrictions defined in [A.6.1.1.1.3.10.1 - Artifact Maintenance Restrictions](6ee982bf-ca52-4c79-a361-61ad9e970fa5):
 
-- Operational Facilitator must create a forum post under "Spark Prime category". The forum post must include:
+- Operational Facilitator must create a forum post under “Spark Prime category”. The forum post must include:
     - A list of the changes being introduced
     - A rationale for each change
     - A link to the Pull Request with the artifact maintenance edits
