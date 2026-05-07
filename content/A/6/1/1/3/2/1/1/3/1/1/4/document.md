@@ -1,12 +1,12 @@
 ---
-id: 7cd2fee6-4606-41e1-8566-fc5d1442a2cd
+id: 79ef290b-94c8-420b-9e05-dbfa4156c5b4
 docNo: A.6.1.1.3.2.1.1.3.1.1.4
-name: Custom Instance Parameters
+name: Genesis Account
 type: Core
 depth: 12
 childType: sections_and_primary_docs
 ---
 
-###### A.6.1.1.3.2.1.1.3.1.1.4 - Custom Instance Parameters [Core]
+###### A.6.1.1.3.2.1.1.3.1.1.4 - Genesis Account [Core]
 
-The documents herein define the custom parameters of the Single Instance of the Agent Creation Primitive, if any.
+The address of Keel's Genesis Account will be specified in a future iteration of the Keel Artifact.
