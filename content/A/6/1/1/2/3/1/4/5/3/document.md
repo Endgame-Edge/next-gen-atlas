@@ -9,7 +9,7 @@ childType: sections_and_primary_docs
 
 ###### A.6.1.1.2.3.1.4.5.3 - Emergency Removal [Core]
 
-The Grove Development Company can immediately offboard a delegate if they:
+The Grove Foundation can immediately offboard a delegate if they:
 
 - Breach disclosure / conflict-of-interest duties;
 - Engage in malicious or negligent conduct; or
