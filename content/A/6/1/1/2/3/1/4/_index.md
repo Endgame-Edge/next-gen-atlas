@@ -1,4 +1,4 @@
-﻿---
+---
 type: index
 path: content/A/6/1/1/2/3/1/4
 childCount: 9
@@ -15,4 +15,3 @@ childCount: 9
 - [A.6.1.1.2.3.1.4.7 - Security Requirements and Compromise Procedure](7/document.md)
 - [A.6.1.1.2.3.1.4.8 - Registry of Delegates](8/document.md)
 - [A.6.1.1.2.3.1.4.9 - Subject to Change](9/document.md)
-

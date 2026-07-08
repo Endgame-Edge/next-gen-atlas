@@ -1,4 +1,4 @@
-﻿---
+---
 type: index
 path: content/A/6/1/1/2/3/1/4/3
 childCount: 6
@@ -12,4 +12,3 @@ childCount: 6
 - [A.6.1.1.2.3.1.4.3.4 - Abstain Only for Disclosed Conflicts](4/document.md)
 - [A.6.1.1.2.3.1.4.3.5 - Report Rationale](5/document.md)
 - [A.6.1.1.2.3.1.4.3.6 - Maintain Independence](6/document.md)
-

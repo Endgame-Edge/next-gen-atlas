@@ -1,4 +1,4 @@
-﻿---
+---
 type: index
 path: content/A/6/1/1/2/3/1/4/7
 childCount: 3
@@ -9,4 +9,3 @@ childCount: 3
 - [A.6.1.1.2.3.1.4.7.1 - Operational Security](1/document.md)
 - [A.6.1.1.2.3.1.4.7.2 - Compromised Key Response](2/document.md)
 - [A.6.1.1.2.3.1.4.7.3 - Non-Compliance](3/document.md)
-

@@ -1,4 +1,4 @@
-﻿---
+---
 type: index
 path: content/A/6/1/1/2/3/1/4/4/2
 childCount: 6
@@ -12,4 +12,3 @@ childCount: 6
 - [A.6.1.1.2.3.1.4.4.2.4 - Ongoing Compliance](4/document.md)
 - [A.6.1.1.2.3.1.4.4.2.5 - Grounds for Disqualification](5/document.md)
 - [A.6.1.1.2.3.1.4.4.2.6 - Application Does Not Guarantee Acceptance](6/document.md)
-
