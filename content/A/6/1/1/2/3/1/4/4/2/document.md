@@ -9,4 +9,4 @@ childType: sections_and_primary_docs
 
 ###### A.6.1.1.2.3.1.4.4.2 - Application Requirements [Core]
 
-Prospective Delegates must submit (i) identity & contact info, (ii) delegate wallet address, and (iii) a signed statement accepting the responsibilities in [A.6.1.1.2.3.1.4.3 - Delegate Responsibilities](80bfbf1c-23ff-4d67-b423-d204157653c2). These requirements are further specified in the subdocuments herein.
+Prospective Delegates must submit (i) identity and contact info, (ii) delegate wallet address, and (iii) a signed statement accepting the responsibilities in [A.6.1.1.2.3.1.4.3 - Delegate Responsibilities](80bfbf1c-23ff-4d67-b423-d204157653c2). These requirements are further specified in the subdocuments herein.
