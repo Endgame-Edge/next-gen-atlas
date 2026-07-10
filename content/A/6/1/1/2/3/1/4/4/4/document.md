@@ -9,4 +9,4 @@ childType: sections_and_primary_docs
 
 ###### A.6.1.1.2.3.1.4.4.4 - Delegate Record [Core]
 
-Accepted Delegates are appended to [A.6.1.1.2.3.1.4.8 - Registry of Delegates](ce2e0c1b-be0f-468d-a844-b5ab7fa63602).
+Accepted Delegates are appended to [A.6.1.1.2.3.1.4.8 - Registry Of Delegates](ce2e0c1b-be0f-468d-a844-b5ab7fa63602).

@@ -11,5 +11,5 @@ childType: sections_and_primary_docs
 
 A Delegate is automatically offboarded if they:
 
-- Fail to vote on ≥ 3 proposals in a row; or
+- Fail to vote on at least three (3) proposals in a row; or
 - Maintain a voting percentage less than 85%.
