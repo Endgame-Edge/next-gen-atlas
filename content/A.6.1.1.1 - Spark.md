@@ -9400,7 +9400,7 @@ Delegation can be executed through (i) the Spark App or (ii) directly on Sparkâ€
 
 A snapshot records voting power at each proposal snapshot-block height. Voting power (including delegations) cannot be altered for the duration of a specific active proposal. Changes in voting power are reflected in future votes.
 
-###### A.6.1.1.1.3.1.3.2.3 - Undelegation & Re-delegation [Core]  <!-- UUID: 375d4774-24f8-4f19-9b00-1a9043891b70 -->
+###### A.6.1.1.1.3.1.3.2.3 - Undelegation and Re-delegation [Core]  <!-- UUID: 375d4774-24f8-4f19-9b00-1a9043891b70 -->
 
 Delegators may revoke or move their delegation whenever no proposal is live. All changes take effect at the next snapshot-block.
 
@@ -9454,7 +9454,7 @@ The Spark Foundation manages Delegate onboarding. The Spark Foundation may onboa
 
 ###### A.6.1.1.1.3.1.3.4.2 - Application Requirements [Core]  <!-- UUID: 1bc894fc-f8d1-450b-9829-15a4a5b707c3 -->
 
-Prospective Delegates must submit (i) identity & contact info, (ii) delegate wallet address, and (iii) a signed statement accepting the responsibilities in [A.6.1.1.1.3.1.3.3 - Delegate Responsibilities](f230ba4e-eb5a-444e-b07a-13a0292338bd). These requirements are further specified in the subdocuments herein.
+Prospective Delegates must submit (i) identity and contact info, (ii) delegate wallet address, and (iii) a signed statement accepting the responsibilities in [A.6.1.1.1.3.1.3.3 - Delegate Responsibilities](f230ba4e-eb5a-444e-b07a-13a0292338bd). These requirements are further specified in the subdocuments herein.
 
 ###### A.6.1.1.1.3.1.3.4.2.1 - Requirement To Verify Identity [Core]  <!-- UUID: 2d7744d1-80ca-41b8-af6b-79d7ae3e89bd -->
 
@@ -9521,17 +9521,17 @@ Upon offboarding, the Delegateâ€™s status in [A.6.1.1.1.3.1.3.8 - Registry of De
 
 At the end of a Delegate's six (6) month term (see [A.6.1.1.1.3.1.3.4.3 - Minimum Term](c612d4e4-96c4-4ccf-a830-7f742338cfd9)), if the Spark Foundation has not recorded a re-approval, the Delegate is automatically offboarded effective 00:00 UTC on the day after term end. The Operational Facilitator updates the Registry and posts a notice on the Sky Forum.
 
-##### A.6.1.1.1.3.1.3.6 - Incentives & Compensation [Core]  <!-- UUID: 5e38acbd-f010-4bd1-af6c-acdd17b3e9e9 -->
+##### A.6.1.1.1.3.1.3.6 - Incentives and Compensation [Core]  <!-- UUID: 5e38acbd-f010-4bd1-af6c-acdd17b3e9e9 -->
 
 Delegates are compensated for their service as follows:
 
 1. Compensation Amount. Active Delegates receive USD 4,000 per calendar month.
 2. Administration. The Spark Foundation administers compensation from its approved operating budget.
-3. Timing & Proration. The compensation structure goes into effect by December 1st 2025, with first payment being made January 2026. Payment is made monthly in arrears and prorated for partial months of service.
-4. Eligibility & Clawback. Payment requires the Delegate to be in good standing and to have met responsibilities in [A.6.1.1.1.3.1.3.3 - Delegate Responsibilities](f230ba4e-eb5a-444e-b07a-13a0292338bd) during the covered period; the Spark Foundation may withhold or claw back amounts for non-performance or breach.
+3. Timing and Proration. The compensation structure goes into effect by December 1st 2025, with first payment being made January 2026. Payment is made monthly in arrears and prorated for partial months of service.
+4. Eligibility and Clawback. Payment requires the Delegate to be in good standing and to have met responsibilities in [A.6.1.1.1.3.1.3.3 - Delegate Responsibilities](f230ba4e-eb5a-444e-b07a-13a0292338bd) during the covered period; the Spark Foundation may withhold or claw back amounts for non-performance or breach.
 5. No Waiver of Oversight. Compensation does not limit or waive any onboarding, renewal, or offboarding requirements.
 
-##### A.6.1.1.1.3.1.3.7 - Security Requirements & Compromise Procedure [Core]  <!-- UUID: 8ab7950c-c347-41a1-bf53-ef4d77000af5 -->
+##### A.6.1.1.1.3.1.3.7 - Security Requirements and Compromise Procedure [Core]  <!-- UUID: 8ab7950c-c347-41a1-bf53-ef4d77000af5 -->
 
 The security requirements and procedure for a compromised key are specified in the subdocuments herein.
 
