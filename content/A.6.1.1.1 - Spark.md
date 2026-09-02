@@ -608,7 +608,7 @@ Spark’s governance runs in a weekly cycle that begins every Monday. Upon recei
 
 At the conclusion of the poll, if the proposal is approved, the Operational Facilitator submits the edit to Powerhouse to formally update the Agent Artifact. Regardless of the outcome, the Operational Facilitator updates the Powerhouse System to include the result of the vote, including any pertinent documents.
 
-###### A.6.1.1.1.2.2.2.2.1.2.1.4.1 - Short Term Transitionary Measures [Core]  <!-- UUID: 6a9b3956-c4f0-4f59-bc7d-2028a642fc19 -->
+###### A.6.1.1.1.2.2.2.2.1.2.1.4.1 - Short-term Transitionary Measures [Core]  <!-- UUID: 6a9b3956-c4f0-4f59-bc7d-2028a642fc19 -->
 
 Until the Powerhouse system supports updating Agent Artifacts, the Operational Facilitator works with the Core Facilitator to update the Atlas GitHub repository located at [https://github.com/sky-ecosystem/next-gen-atlas/pulls](https://github.com/sky-ecosystem/next-gen-atlas/pulls) to reflect proposals approved by Prime Governance.
 
@@ -9586,23 +9586,23 @@ The Active Data is updated as follows:
 The information for each Delegate is listed below:
 
 - Remi
-    - Delegate Name: Remi
-    - Delegate Wallet Address: `0xDC5D4228a42880F5bbd577A184035503Bd55799a`
-    - Effective Date: 2025-08-21
-    - Current Term: 2026-07-01 to 2026-12-31
-    - Status: Active
+  - Delegate Name: Remi
+  - Delegate Wallet Address: `0xDC5D4228a42880F5bbd577A184035503Bd55799a`
+  - Effective Date: 2025-08-21
+  - Current Term: 2026-07-01 to 2026-12-31
+  - Status: Active
 - NeoNode
-    - Delegate Name: NeoNode
-    - Delegate Wallet Address: `0x71faa03C0cEbCbB53236763B6b118aD906d9F6d3`
-    - Effective Date: 2025-08-21
-    - Current Term: 2026-07-01 to 2026-12-31
-    - Status: Active
+  - Delegate Name: NeoNode
+  - Delegate Wallet Address: `0x71faa03C0cEbCbB53236763B6b118aD906d9F6d3`
+  - Effective Date: 2025-08-21
+  - Current Term: 2026-07-01 to 2026-12-31
+  - Status: Active
 - TheMoon
-    - Delegate Name: TheMoon
-    - Delegate Wallet Address: `0xF80A26ee68Bdf0224c18F85876b20858ee5206A9`
-    - Effective Date: 2026-01-14
-    - Current Term: 2026-07-01 to 2026-12-31
-    - Status: Active
+  - Delegate Name: TheMoon
+  - Delegate Wallet Address: `0xF80A26ee68Bdf0224c18F85876b20858ee5206A9`
+  - Effective Date: 2026-01-14
+  - Current Term: 2026-07-01 to 2026-12-31
+  - Status: Active
 
 ##### A.6.1.1.1.3.1.3.9 - Subject to Change [Core]  <!-- UUID: 57f6f628-dfc3-4819-8265-c85a38c0fc9f -->
 
@@ -9834,7 +9834,7 @@ The current USDS risk parameters are:
 - Isolated Collateral: No
 - Isolated Borrowing: Yes
 - Siloed Borrowing: No
-- Flash Loan Enabled: Yes.
+- Flash Loan Enabled: Yes
 
 The USDS Borrow Rate is set through the Interest Rate Model as a spread over the Sky Savings Rate. The spread is set directly by the Core Facilitator in consultation with the Core Council Risk Advisor.
 
@@ -10513,195 +10513,195 @@ The subdocuments herein define the current configuration of the cap automators f
 The current WETH cap automator parameters are:
 
 - Supply cap
-    - `gap`: 100,000 WETH
-    - `ttl`: 4 hours
-    - `max`: Unlimited
+  - `gap`: 100,000 WETH
+  - `ttl`: 4 hours
+  - `max`: Unlimited
 - Borrow cap
-    - `gap`: 10,000 WETH
-    - `ttl`: 4 hours
-    - `max`: Unlimited
+  - `gap`: 10,000 WETH
+  - `ttl`: 4 hours
+  - `max`: Unlimited
 
 ###### A.6.1.1.1.3.2.1.1.3.2.2 - SparkLend Cap Automator wstETH Parameters [Core]  <!-- UUID: 93b851d7-9825-4022-a583-51a4bbdf4f9c -->
 
 The current wstETH cap automator parameters are:
 
 - Supply cap
-    - `gap`: 50,000 wstETH
-    - `ttl`: 4 hours
-    - `max`: Unlimited
+  - `gap`: 50,000 wstETH
+  - `ttl`: 4 hours
+  - `max`: Unlimited
 - Borrow cap
-    - `gap`: 10,000 wstETH
-    - `ttl`: 12 hours
-    - `max`: 1 wstETH
+  - `gap`: 10,000 wstETH
+  - `ttl`: 12 hours
+  - `max`: 1 wstETH
 
 ###### A.6.1.1.1.3.2.1.1.3.2.3 - SparkLend Cap Automator rETH Parameters [Core]  <!-- UUID: 4bec80b2-33d2-48a9-83e6-26bb2a00e303 -->
 
 The current rETH cap automator parameters are:
 
 - Supply cap
-    - `gap`: 10,000 rETH
-    - `ttl`: 12 hours
-    - `max`: 80,000 rETH
+  - `gap`: 10,000 rETH
+  - `ttl`: 12 hours
+  - `max`: 80,000 rETH
 - Borrow cap
-    - `gap`: 100 rETH
-    - `ttl`: 12 hours
-    - `max`: 1 rETH
+  - `gap`: 100 rETH
+  - `ttl`: 12 hours
+  - `max`: 1 rETH
 
 ###### A.6.1.1.1.3.2.1.1.3.2.4 - SparkLend Cap Automator WBTC Parameters [Core]  <!-- UUID: b67fb946-b21d-4173-b57b-e5505128f003 -->
 
 The current WBTC cap automator parameters are:
 
 - Supply cap
-    - `gap`: 500 WBTC
-    - `ttl`: 4 hours
-    - `max`: 50,000 WBTC
+  - `gap`: 500 WBTC
+  - `ttl`: 4 hours
+  - `max`: 50,000 WBTC
 - Borrow cap
-    - `gap`: 100 WBTC
-    - `ttl`: 4 hours
-    - `max`: 50,000 WBTC
+  - `gap`: 100 WBTC
+  - `ttl`: 4 hours
+  - `max`: 50,000 WBTC
 
 ###### A.6.1.1.1.3.2.1.1.3.2.5 - SparkLend Cap Automator sDai Parameters [Core]  <!-- UUID: 21bdfe50-0996-494d-8413-1d41966fb4f6 -->
 
 The current sDai cap automator parameters are:
 
 - Supply cap
-    - `gap`: 50 million sDai
-    - `ttl`: 12 hours
-    - `max`: 1 billion sDai
+  - `gap`: 50 million sDai
+  - `ttl`: 12 hours
+  - `max`: 1 billion sDai
 - Borrow cap: n/a - not a borrowable asset
-    - `gap`: n/a
-    - `ttl`: n/a
-    - `max`: 0 sDAI
+  - `gap`: n/a
+  - `ttl`: n/a
+  - `max`: 0 sDAI
 
 ###### A.6.1.1.1.3.2.1.1.3.2.6 - SparkLend Cap Automator USDC Parameters [Core]  <!-- UUID: 07f1853e-ec34-44ae-b137-708a81cd3195 -->
 
 The current USDC cap automator parameters are:
 
 - Supply cap
-    - `gap`: 150 million USDC
-    - `ttl`: 12 hours
-    - `max`: 0 (no cap)
+  - `gap`: 150 million USDC
+  - `ttl`: 12 hours
+  - `max`: 0 (no cap)
 - Borrow cap
-    - `gap`: 50 million USDC
-    - `ttl`: 12 hours
-    - `max`: 0 (no cap)
+  - `gap`: 50 million USDC
+  - `ttl`: 12 hours
+  - `max`: 0 (no cap)
 
 ###### A.6.1.1.1.3.2.1.1.3.2.7 - SparkLend Cap Automator USDT Parameters [Core]  <!-- UUID: 7edd58f1-df79-4346-803b-4d01883e3f09 -->
 
 The current USDT cap automator parameters are:
 
 - Supply cap
-    - `gap`: 1 billion USDT
-    - `ttl`: 12 hours
-    - `max`: 0 (no cap)
+  - `gap`: 1 billion USDT
+  - `ttl`: 12 hours
+  - `max`: 0 (no cap)
 - Borrow cap
-    - `gap`: 200 million USDT
-    - `ttl`: 12 hours
-    - `max`: 0 (no cap)
+  - `gap`: 200 million USDT
+  - `ttl`: 12 hours
+  - `max`: 0 (no cap)
 
 ###### A.6.1.1.1.3.2.1.1.3.2.8 - SparkLend Cap Automator cbBTC Parameters [Core]  <!-- UUID: e2b2d7b0-56f9-408e-a49c-cfd211a20748 -->
 
 The current cbBTC cap automator parameters are:
 
 - Supply cap
-    - `gap`: 500 cbBTC
-    - `ttl`: 4 hours
-    - `max`: 50,000 cbBTC
+  - `gap`: 500 cbBTC
+  - `ttl`: 4 hours
+  - `max`: 50,000 cbBTC
 - Borrow cap
-    - `gap`: 100 cbBTC
-    - `ttl`: 4 hours
-    - `max`: 50,000 cbBTC
+  - `gap`: 100 cbBTC
+  - `ttl`: 4 hours
+  - `max`: 50,000 cbBTC
 
 ###### A.6.1.1.1.3.2.1.1.3.2.9 - SparkLend Cap Automator sUSDS Parameters [Core]  <!-- UUID: 061ca4e3-08a7-4262-aa22-9a79b988cf89 -->
 
 The current sUSDS cap automator parameters are:
 
 - Supply cap
-    - `gap`: 50 millions sUSDS
-    - `ttl`: 12 hours
-    - `max`: 500 million sUSDS
+  - `gap`: 50 millions sUSDS
+  - `ttl`: 12 hours
+  - `max`: 500 million sUSDS
 - Borrow cap
-    - `gap`: N/A
-    - `ttl`: N/A
-    - `max`: N/A
+  - `gap`: N/A
+  - `ttl`: N/A
+  - `max`: N/A
 
 ###### A.6.1.1.1.3.2.1.1.3.2.10 - SparkLend Cap Automator weETH Parameters [Core]  <!-- UUID: cc049d6b-327f-4c85-aab0-97c976405e39 -->
 
 The current weETH cap automator parameters are:
 
 - Supply cap
-    - `gap`: 10,000 weETH
-    - `ttl`: 12 hours
-    - `max`: 500,000 weETH
+  - `gap`: 10,000 weETH
+  - `ttl`: 12 hours
+  - `max`: 500,000 weETH
 - Borrow cap
-    - `gap`: N/A
-    - `ttl`: N/A
-    - `max`: N/A
+  - `gap`: N/A
+  - `ttl`: N/A
+  - `max`: N/A
 
 ###### A.6.1.1.1.3.2.1.1.3.2.11 - SparkLend Cap Automator LBTC Parameters [Core]  <!-- UUID: b0837675-5d32-43ee-84f9-076fe644c61e -->
 
 The current LBTC cap automator parameters are:
 
 - Supply cap
-    - `gap`: 500 LBTC
-    - `ttl`: 12 hours
-    - `max`: 10,000 LBTC
+  - `gap`: 500 LBTC
+  - `ttl`: 12 hours
+  - `max`: 10,000 LBTC
 - Borrow cap
-    - `gap`: N/A
-    - `ttl`: N/A
-    - `max`: N/A
+  - `gap`: N/A
+  - `ttl`: N/A
+  - `max`: N/A
 
 ###### A.6.1.1.1.3.2.1.1.3.2.12 - SparkLend Cap Automator tBTC Parameters [Core]  <!-- UUID: 33ee5bdf-e28d-4c9f-98a2-3e7b28bd9b50 -->
 
 The current tBTC cap automator parameters are:
 
 - Supply cap
-    - `gap`: 125 tBTC
-    - `ttl`: 12 hours
-    - `max`: 1,000 tBTC
+  - `gap`: 125 tBTC
+  - `ttl`: 12 hours
+  - `max`: 1,000 tBTC
 - Borrow cap
-    - `gap`: 25 tBTC
-    - `ttl`: 12 hours
-    - `max`: 900 tBTC
+  - `gap`: 25 tBTC
+  - `ttl`: 12 hours
+  - `max`: 900 tBTC
 
 ###### A.6.1.1.1.3.2.1.1.3.2.13 - SparkLend Cap Automator ezETH Parameters [Core]  <!-- UUID: 10f81b39-59d8-4f8c-837b-6f8eb00804b8 -->
 
 The current ezETH cap automator parameters are:
 
 - Supply cap
-    - `gap`: 5,000 ezETH
-    - `ttl`: 12 hours
-    - `max`: 40,000 ezETH
+  - `gap`: 5,000 ezETH
+  - `ttl`: 12 hours
+  - `max`: 40,000 ezETH
 - Borrow cap
-    - `gap`: N/A
-    - `ttl`: N/A
-    - `max`: N/A
+  - `gap`: N/A
+  - `ttl`: N/A
+  - `max`: N/A
 
 ###### A.6.1.1.1.3.2.1.1.3.2.14 - SparkLend Cap Automator rsETH Parameters [Core]  <!-- UUID: e8012cc7-5e8c-47e7-af44-d7e61bd16b3e -->
 
 The current rsETH cap automator parameters are:
 
 - Supply cap
-    - `gap`: 5,000 rsETH
-    - `ttl`: 12 hours
-    - `max`: 40,000 rsETH
+  - `gap`: 5,000 rsETH
+  - `ttl`: 12 hours
+  - `max`: 40,000 rsETH
 - Borrow cap
-    - `gap`: N/A
-    - `ttl`: N/A
-    - `max`: N/A
+  - `gap`: N/A
+  - `ttl`: N/A
+  - `max`: N/A
 
 ###### A.6.1.1.1.3.2.1.1.3.2.15 - SparkLend Cap Automator pyUSD Parameters [Core]  <!-- UUID: c06b8247-1397-4887-b1e6-0ea370d25dc9 -->
 
 The current pyUSD cap automator parameters are:
 
 - Supply cap
-    - `gap`: 50 million pyUSD
-    - `ttl`: 12 hours
-    - `max`: 0 (no cap)
+  - `gap`: 50 million pyUSD
+  - `ttl`: 12 hours
+  - `max`: 0 (no cap)
 - Borrow cap
-    - `gap`: 25 million pyUSD
-    - `ttl`: 12 hours
-    - `max`: 0 (no cap)
+  - `gap`: 25 million pyUSD
+  - `ttl`: 12 hours
+  - `max`: 0 (no cap)
 
 ###### A.6.1.1.1.3.2.1.1.3.3 - SparkLend Cap Automator Authorized Parties [Core]  <!-- UUID: e58645fb-0085-4ea2-aba5-c4b5968038b8 -->
 
@@ -11003,16 +11003,16 @@ The SPK contributor vesting is a 4-year linear vesting schedule that compensates
 The current SPK contributor vesting parameters are:
 
 - DssVest
-    - Recipient address(es): `0xEFF097C5CC7F63e9537188FE381D1360158c1511`
-    - Start date: 17 June 2025
-    - Cliff date: 17 June 2026
-    - End date: 16 June 2029
-    - Vesting method: Linear per block with cliff
-    - Claim auth: Permissionless
+  - Recipient address(es): `0xEFF097C5CC7F63e9537188FE381D1360158c1511`
+  - Start date: 17 June 2025
+  - Cliff date: 17 June 2026
+  - End date: 16 June 2029
+  - Vesting method: Linear per block with cliff
+  - Claim auth: Permissionless
 - SubDAO Proxy actions
-    - Approve SPK
-        - Address: `0x6Bad07722818Ceff1deAcc33280DbbFdA4939A09`
-        - Amount: 1.2 billion SPK (12% of total supply)
+  - Approve SPK
+    - Address: `0x6Bad07722818Ceff1deAcc33280DbbFdA4939A09`
+    - Amount: 1.2 billion SPK (12% of total supply)
 
 ### A.6.1.1.1.3.5 - Spark Savings Configuration [Core]  <!-- UUID: 9b4ce799-3baa-42e8-a742-7e8deb377dfc -->
 
@@ -11304,9 +11304,9 @@ Spark's strategic investment will be undertaken with the following terms:
 - Recipient: PRM LBS LTD, at address 0xD5FF8bdeF23fc3C8Ff6815C6B4051F9809C877a5
 - Arkis post-money valuation: $45 million
 - Deal structure:
-    - Simple Agreement for Future Equity (SAFE) substantially mirroring the Ycombinator SAFE format
-    - Token warrant providing for token ownership share equal to at least 50% of Spark's share of equity ownership at the time of token launch
-    - Side letter providing for most favored nation rights, pro rata rights, information rights, major investor rights, and right to elect one director
+  - Simple Agreement for Future Equity (SAFE) substantially mirroring the Ycombinator SAFE format
+  - Token warrant providing for token ownership share equal to at least 50% of Spark's share of equity ownership at the time of token launch
+  - Side letter providing for most favored nation rights, pro rata rights, information rights, major investor rights, and right to elect one director
 - Fee reduction: Spark will benefit from reduced fees for use of Arkis protocol for 5 years with Spark Foundation holding the option to extend by 2 additional years, assessed as a 50% reduction vs the lowest rate of fees paid by any other user
 
 ###### A.6.1.1.1.3.6.2.1.2 - Delegation of Authority [Core]  <!-- UUID: 483d37f0-0143-44cc-b470-63bbe7913f6d -->
@@ -11804,7 +11804,7 @@ Offchain Collateralized Lending may be facilitated via Anchorage, which is appro
 
 - Venue exposure Limit: $1 billion
 - Collateral Agent(s):
-    - Anchorage Innovations: $1 billion
+  - Anchorage Innovations: $1 billion
 
 ##### A.6.1.1.1.3.8.2.4 - Loan Terms [Core]  <!-- UUID: f80317f5-cf93-4610-b35a-2e60c94011d0 -->
 
