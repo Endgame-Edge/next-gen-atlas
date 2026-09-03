@@ -1414,9 +1414,9 @@ This Instance’s associated Instance Configuration Document is located at [A.6.
 
 The Ethereum Mainnet Instances Directory of the Curve Protocol with `Active` Status are stored herein.
 
-###### A.6.1.1.1.2.6.1.1.2.1.4.1 - Ethereum Mainnet - Curve rlUSD/USDC for Swaps Instance Configuration Document Location [Core]  <!-- UUID: 5d2836d7-f633-4405-93b6-53d1c5734310 -->
+###### A.6.1.1.1.2.6.1.1.2.1.4.1 - Ethereum Mainnet - Curve RLUSD/USDC for Swaps Instance Configuration Document Location [Core]  <!-- UUID: 5d2836d7-f633-4405-93b6-53d1c5734310 -->
 
-This Instance's associated Instance Configuration Document is located at [A.6.1.1.1.2.6.1.3.1.4.1 - Ethereum Mainnet - Curve rlUSD/USDC for Swaps Instance Configuration Document](3833eb97-f358-4019-9265-e4a45455ee0e).
+This Instance's associated Instance Configuration Document is located at [A.6.1.1.1.2.6.1.3.1.4.1 - Ethereum Mainnet - Curve RLUSD/USDC for Swaps Instance Configuration Document](3833eb97-f358-4019-9265-e4a45455ee0e).
 
 ###### A.6.1.1.1.2.6.1.1.2.1.5 - Morpho [Core]  <!-- UUID: 350d7312-0a09-43cd-bd31-265fda5a14a1 -->
 
@@ -1474,9 +1474,9 @@ This Instance's associated Instance Configuration Document is located at [A.6.1.
 
 This Instance's associated Instance Configuration Document is located at [A.6.1.1.1.2.6.1.3.1.8.3 - Ethereum Mainnet - Uniswap v4 USDG/USDS Pool Instance Configuration Document](8c92f153-c1bc-4c6a-afb3-97769f839a71).
 
-###### A.6.1.1.1.2.6.1.1.2.1.8.4 - Ethereum Mainnet - Uniswap v4 rlUSD/USDS Pool Instance Configuration Document Location [Core]  <!-- UUID: 28d60d16-100f-42af-a3cf-4e1def7a2a35 -->
+###### A.6.1.1.1.2.6.1.1.2.1.8.4 - Ethereum Mainnet - Uniswap v4 RLUSD/USDS Pool Instance Configuration Document Location [Core]  <!-- UUID: 28d60d16-100f-42af-a3cf-4e1def7a2a35 -->
 
-This Instance's associated Instance Configuration Document is located at [A.6.1.1.1.2.6.1.3.1.8.4 - Ethereum Mainnet - Uniswap v4 rlUSD/USDS Pool Instance Configuration Document](102ef022-a660-4942-8bf2-bb061a7a8f8a).
+This Instance's associated Instance Configuration Document is located at [A.6.1.1.1.2.6.1.3.1.8.4 - Ethereum Mainnet - Uniswap v4 RLUSD/USDS Pool Instance Configuration Document](102ef022-a660-4942-8bf2-bb061a7a8f8a).
 
 ###### A.6.1.1.1.2.6.1.1.2.1.9 - Paxos [Core]  <!-- UUID: c6e67244-8bdc-487a-b5bf-61025f623d22 -->
 
@@ -2548,7 +2548,7 @@ Any changes to the multisig signers that do not fall within the two exceptions l
 
 ###### A.6.1.1.1.2.6.1.2.1.2.3 - Token Claim Authorization [Core]  <!-- UUID: ea73f176-0b94-4e93-b1ee-ca498ac5a6c6 -->
 
-Phoenix Labs is authorized to propose the inclusion of transfers of accrued treasury and collector revenues from the Active Instances to the Spark ALM Proxy in a Spark Spell. Additionally, for non-USD-denominated reserve assets, or USD-denominated reserve assets that are not supported by the Spark Liquidity Layer, the reserves can be transferred to the Spark Operations Multisig at address (`0x2E1b01adABB8D4981863394bEa23a1263CBaeDfC`) to be liquidated for USDS, with the proceeds of sale transferred to the Spark SubDAO Proxy. This request must be posted to the Sky Forum under the Spark Prime category. The Operational Executor Agent must formally approve the inclusion of the transfer in a Spark Spell, with no token holder vote needed.
+Phoenix Labs is authorized to propose the inclusion of transfers of accrued treasury and collector revenues from the Active Instances to the Spark ALM Proxy in a Spark Spell. Additionally, for non-USD-denominated reserve assets, or USD-denominated reserve assets that are not supported by the Spark Liquidity Layer, the reserves can be transferred to the Spark Operations Multisig at address (`0x2E1b01adABB8D4981863394bEa23a1263CBaeDfC`) to be liquidated for USDS, with the proceeds of sale transferred to the Spark SubProxy. This request must be posted to the Sky Forum under the Spark Prime category. The Operational Executor Agent must formally approve the inclusion of the transfer in a Spark Spell, with no token holder vote needed.
 
 ###### A.6.1.1.1.2.6.1.2.1.3 - Total Risk Capital (TRC) Management [Core]  <!-- UUID: ff7add39-b942-4df0-a710-75f70a05b49d -->
 
@@ -4762,9 +4762,9 @@ The operator must decrease the `RateLimit` based on the assets redeemed.
 
 The Ethereum Mainnet Instances of the Curve Protocol with `Active` Status are stored herein.
 
-###### A.6.1.1.1.2.6.1.3.1.4.1 - Ethereum Mainnet - Curve rlUSD/USDC for Swaps Instance Configuration Document [Core]  <!-- UUID: 3833eb97-f358-4019-9265-e4a45455ee0e -->
+###### A.6.1.1.1.2.6.1.3.1.4.1 - Ethereum Mainnet - Curve RLUSD/USDC for Swaps Instance Configuration Document [Core]  <!-- UUID: 3833eb97-f358-4019-9265-e4a45455ee0e -->
 
-The documents herein contain the Instance Configuration Document for the Curve rlUSD/USDC for Swaps Instance.
+The documents herein contain the Instance Configuration Document for the Curve RLUSD/USDC for Swaps Instance.
 
 ###### A.6.1.1.1.2.6.1.3.1.4.1.1 - RRC Framework Full Implementation [Core]  <!-- UUID: 104bab54-9b08-4232-a748-a5dac8330d6b -->
 
@@ -4772,7 +4772,7 @@ The documents herein contain the Instance Configuration Document for the Curve r
 
 ###### A.6.1.1.1.2.6.1.3.1.4.1.2 - Parameters [Core]  <!-- UUID: 57e0e7b0-dd77-4634-810c-53d4e371a3dc -->
 
-The documents herein define the parameters of the Curve rlUSD/USDC for Swaps Instance of the Allocation System Primitive.
+The documents herein define the parameters of the Curve RLUSD/USDC for Swaps Instance of the Allocation System Primitive.
 
 ###### A.6.1.1.1.2.6.1.3.1.4.1.2.1 - Instance Identifiers [Core]  <!-- UUID: a844fb4a-0f83-4e7d-8e62-3d33ca1873c2 -->
 
@@ -5876,9 +5876,9 @@ The documents herein contain specific off-chain parameters for this Instance.
 
 The documents herein contain operational procedures or monitoring requirements unique to this Instance that deviate from or otherwise supplement the general Spark Liquidity Layer processes.
 
-###### A.6.1.1.1.2.6.1.3.1.8.4 - Ethereum Mainnet - Uniswap v4 rlUSD/USDS Pool Instance Configuration Document [Core]  <!-- UUID: 102ef022-a660-4942-8bf2-bb061a7a8f8a -->
+###### A.6.1.1.1.2.6.1.3.1.8.4 - Ethereum Mainnet - Uniswap v4 RLUSD/USDS Pool Instance Configuration Document [Core]  <!-- UUID: 102ef022-a660-4942-8bf2-bb061a7a8f8a -->
 
-The documents herein contain the Instance Configuration Document for the Uniswap v4 rlUSD/USDS Pool Instance.
+The documents herein contain the Instance Configuration Document for the Uniswap v4 RLUSD/USDS Pool Instance.
 
 ###### A.6.1.1.1.2.6.1.3.1.8.4.1 - RRC Framework Full Implementation [Core]  <!-- UUID: a0b35835-4018-4fff-97e6-6f25a1879c48 -->
 
@@ -5886,7 +5886,7 @@ The documents herein contain the Instance Configuration Document for the Uniswap
 
 ###### A.6.1.1.1.2.6.1.3.1.8.4.2 - Parameters [Core]  <!-- UUID: 92466f64-08ea-44bf-b319-6f43e8bd7021 -->
 
-The documents herein define the parameters of the Uniswap v4 rlUSD/USDS Pool Instance of the Allocation System Primitive.
+The documents herein define the parameters of the Uniswap v4 RLUSD/USDS Pool Instance of the Allocation System Primitive.
 
 ###### A.6.1.1.1.2.6.1.3.1.8.4.2.1 - Instance Identifiers [Core]  <!-- UUID: 8c320d89-ffd5-4a4b-817d-33f871cc62ff -->
 
@@ -5902,11 +5902,11 @@ Uniswap v4
 
 ###### A.6.1.1.1.2.6.1.3.1.8.4.2.1.3 - Asset Supplied By Spark Liquidity Layer [Core]  <!-- UUID: 41220e27-c21c-4826-b342-77022775926a -->
 
-USDS and rlUSD
+USDS and RLUSD
 
 ###### A.6.1.1.1.2.6.1.3.1.8.4.2.1.4 - Token [Core]  <!-- UUID: 5e723718-ac24-4c68-bb95-111dccea5693 -->
 
-rlUSDUSDS
+RLUSDUSDS
 
 ###### A.6.1.1.1.2.6.1.3.1.8.4.2.2 - Contract Addresses [Core]  <!-- UUID: 68d566b7-52b2-40c5-98db-2df6a7dc85b2 -->
 
@@ -10880,25 +10880,25 @@ Spark forwent exercising its Right of First Refusal in order to enable Grove to 
 
 Spark engaged in terms of agreement with Sky, Moonbow and Grove in Ecosystem Accord 2, located in [A.2.8.2.2 - Prime Program](aa3b8e65-0ded-48c2-9c40-812debf99f32).
 
-### A.6.1.1.1.3.4 - SubDAO Proxy Management [Core]  <!-- UUID: 2ad53f55-44cb-44fd-9e68-6c7ed128e360 -->
+### A.6.1.1.1.3.4 - SubProxy Management [Core]  <!-- UUID: 2ad53f55-44cb-44fd-9e68-6c7ed128e360 -->
 
-The documents herein specify Spark's strategy and operational processes for managing assets held in the Spark SubDAO Proxy, and obligations relating to these assets.
+The documents herein specify Spark's strategy and operational processes for managing assets held in the Spark SubProxy, and obligations relating to these assets.
 
 #### A.6.1.1.1.3.4.1 - Operational Process Definition [Core]  <!-- UUID: bfdc08d5-42f5-4d49-9390-b6ad210c5c40 -->
 
-The documents herein define the process for updating Spark's SubDAO Proxy management policies.
+The documents herein define the process for updating Spark's SubProxy management policies.
 
-##### A.6.1.1.1.3.4.1.1 - Spark SubDAO Proxy Policy Changes [Core]  <!-- UUID: 90240e75-6e5f-4a54-8999-ee430cfcf20d -->
+##### A.6.1.1.1.3.4.1.1 - Spark SubProxy Policy Changes [Core]  <!-- UUID: 90240e75-6e5f-4a54-8999-ee430cfcf20d -->
 
-Changes to Spark SubDAO Proxy management policies are implemented using the Root Edit Primitive.
+Changes to Spark SubProxy management policies are implemented using the Root Edit Primitive.
 
-##### A.6.1.1.1.3.4.1.2 - Preapproved Subdao Proxy Activities [Core]  <!-- UUID: 8a421648-d732-44c1-8666-bbbb9b7bfff2 -->
+##### A.6.1.1.1.3.4.1.2 - Preapproved SubProxy Activities [Core]  <!-- UUID: 8a421648-d732-44c1-8666-bbbb9b7bfff2 -->
 
-Dispositions of Spark SubDAO Proxy assets that have already been approved by governance and added to the Spark artifact, including periodic payments and disposal of non-core assets, can continue as planned until a superseding policy change is adopted via the Spark SubDAO Proxy Policy Changes process.
+Dispositions of Spark SubProxy assets that have already been approved by governance and added to the Spark artifact, including periodic payments and disposal of non-core assets, can continue as planned until a superseding policy change is adopted via the Spark SubProxy Policy Changes process.
 
 #### A.6.1.1.1.3.4.2 - Policies and Parameters [Core]  <!-- UUID: 262ff1c9-9634-45a4-9f18-ed222352ddb4 -->
 
-The documents herein define the currently active policies for managing the Spark SubDAO Proxy, alongside relevant parameters for implementing the policies.
+The documents herein define the currently active policies for managing the Spark SubProxy, alongside relevant parameters for implementing the policies.
 
 ##### A.6.1.1.1.3.4.2.1 - Encumbrance Ratio [Core]  <!-- UUID: 9995ba51-1de7-4b32-8b76-a71462dc4c5b -->
 
@@ -10924,29 +10924,29 @@ The current Target Encumbrance Ratio is 90%.
 
 This parameter will be maintained in parallel with the value specified in the Spark Artifact Allocation System Primitive section at [A.6.1.1.1.2.6.1.2.1.3.1 - Spark’s Operation Of Spark Liquidity Layer And Agreement Regarding Encumbrance Ratio](23f7ed09-99ca-45aa-8e12-dffcf55170af); any change to one section of the Spark Artifact will require a corresponding change in the other section.
 
-##### A.6.1.1.1.3.4.2.2 - Target SubDAO Proxy Value [Core]  <!-- UUID: 2e676b28-14e8-4536-ab70-c49b896da8b8 -->
+##### A.6.1.1.1.3.4.2.2 - Target SubProxy Value [Core]  <!-- UUID: 2e676b28-14e8-4536-ab70-c49b896da8b8 -->
 
-The documents herein define Spark’s policy for maintaining a SubDAO Proxy balance sufficient to cover anticipated risk exposures and operational expenses.
+The documents herein define Spark’s policy for maintaining a SubProxy balance sufficient to cover anticipated risk exposures and operational expenses.
 
 ###### A.6.1.1.1.3.4.2.2.1 - Definitions [Core]  <!-- UUID: fd1df613-3038-4f60-9156-ecd4335addb0 -->
 
-The subdocuments herein provide definitions of target SubDAO Proxy value and relevant parameters.
+The subdocuments herein provide definitions of target SubProxy value and relevant parameters.
 
-###### A.6.1.1.1.3.4.2.2.1.1 - Target SubDAO Proxy Value Definition [Core]  <!-- UUID: 3baabdcc-d715-419d-97b7-28936d4b0f95 -->
+###### A.6.1.1.1.3.4.2.2.1.1 - Target SubProxy Value Definition [Core]  <!-- UUID: 3baabdcc-d715-419d-97b7-28936d4b0f95 -->
 
-Target SubDAO Proxy Value is the minimum target value of the Spark DAO SubDAO Proxy, below which Spark will not undertake any non-critical and non-strategic dispositions of SubDAO Proxy assets such as SPK token purchases.
+Target SubProxy Value is the minimum target value of the Spark DAO SubProxy, below which Spark will not undertake any non-critical and non-strategic dispositions of SubProxy assets such as SPK token purchases.
 
 ###### A.6.1.1.1.3.4.2.2.1.2 - RRC Lookback Period Definition [Core]  <!-- UUID: 6e832698-c71b-441c-9132-4df8d0357351 -->
 
-The Target SubDAO Proxy Value evaluation method ([A.6.1.1.1.3.4.2.2.2 - Evaluation Method](99d4b8da-fa5c-49ce-b93c-70d07334d7aa)) considers the higher of current Required Risk Capital (RRC) or highest RRC incurred within a trailing period. RRC Lookback Period defines the amount of time to review for the trailing period when evaluating the RRC component of Target SubDAO Proxy Value.
+The Target SubProxy Value evaluation method ([A.6.1.1.1.3.4.2.2.2 - Evaluation Method](99d4b8da-fa5c-49ce-b93c-70d07334d7aa)) considers the higher of current Required Risk Capital (RRC) or highest RRC incurred within a trailing period. RRC Lookback Period defines the amount of time to review for the trailing period when evaluating the RRC component of Target SubProxy Value.
 
 ###### A.6.1.1.1.3.4.2.2.1.3 - Spark Product Backstop Definition [Core]  <!-- UUID: ac10196b-18b2-4bc4-8627-0cacac8a3524 -->
 
-The Spark Product Backstop is a fixed value of USDS, updated from time to time by Spark governance via the Spark SubDAO Proxy Policy Changes process ([A.6.1.1.1.3.4.1.1 - Spark SubDAO Proxy Policy Changes](90240e75-6e5f-4a54-8999-ee430cfcf20d)), meant to cover the anticipated risk exposures to Spark products that are not covered under Sky’s Required Risk Capital framework.
+The Spark Product Backstop is a fixed value of USDS, updated from time to time by Spark governance via the Spark SubProxy Policy Changes process ([A.6.1.1.1.3.4.1.1 - Spark SubProxy Policy Changes](90240e75-6e5f-4a54-8999-ee430cfcf20d)), meant to cover the anticipated risk exposures to Spark products that are not covered under Sky’s Required Risk Capital framework.
 
 ###### A.6.1.1.1.3.4.2.2.1.4 - Target Runway Definition [Core]  <!-- UUID: 0bd4cd1e-1a37-4209-8ac4-45c17facafd3 -->
 
-Target Runway defines the amount of operational expenses Spark holds in reserve as part of the Target SubDAO Proxy Value. The operational expenses component of Target SubDAO Proxy Value counts the higher of past month’s operating expenses multiplied by Target Runway (in months), or total operating expenses incurred in trailing period equal to Target Runway.
+Target Runway defines the amount of operational expenses Spark holds in reserve as part of the Target SubProxy Value. The operational expenses component of Target SubProxy Value counts the higher of past month’s operating expenses multiplied by Target Runway (in months), or total operating expenses incurred in trailing period equal to Target Runway.
 
 ###### A.6.1.1.1.3.4.2.2.1.5 - Operating Expense Definition [Core]  <!-- UUID: 3ffad8de-515c-45e0-ac75-223d075cb9f8 -->
 
@@ -10954,7 +10954,7 @@ Operating Expense is defined as the sum of governance-approved transfers to the 
 
 ###### A.6.1.1.1.3.4.2.2.2 - Evaluation Method [Core]  <!-- UUID: 99d4b8da-fa5c-49ce-b93c-70d07334d7aa -->
 
-Target SubDAO Proxy Value is computed as the greater of Required Risk Capital (RRC) plus Spark Product Backstop, or Operational Expense Reserve.
+Target SubProxy Value is computed as the greater of Required Risk Capital (RRC) plus Spark Product Backstop, or Operational Expense Reserve.
 
 RRC is calculated as the higher of current RRC or highest RRC incurred within the RRC Lookback Period, divided by Risk Tolerance Ratio ([A.6.1.1.1.3.4.2.1 - Encumbrance Ratio](9995ba51-1de7-4b32-8b76-a71462dc4c5b)).
 
@@ -10964,45 +10964,45 @@ Operational expense reserve is calculated as the higher of past month’s operat
 
 ###### A.6.1.1.1.3.4.2.2.3 - Parameters [Core]  <!-- UUID: 7410ed94-db95-437a-a4d2-9120036ec7bd -->
 
-The current Target SubDAO Proxy Value parameters are:
+The current Target SubProxy Value parameters are:
 
 - RRC Lookback Period: 3 months
 - Spark Product Backstop: 1 million USDS
 - Target Runway: 12 months
 
-##### A.6.1.1.1.3.4.2.3 - Excess SubDAO Proxy Funds Disposition Policy [Core]  <!-- UUID: 6a4870fa-73f1-4d49-b7ee-d531fb59a971 -->
+##### A.6.1.1.1.3.4.2.3 - Excess SubProxy Funds Disposition Policy [Core]  <!-- UUID: 6a4870fa-73f1-4d49-b7ee-d531fb59a971 -->
 
-The documents herein define Spark’s policy for disposition of excess SubDAO Proxy funds above the target SubDAO Proxy value.
+The documents herein define Spark’s policy for disposition of excess SubProxy funds above the target SubProxy value.
 
 ###### A.6.1.1.1.3.4.2.3.1 - Definitions [Core]  <!-- UUID: 0da9928f-ae14-4869-b36b-761930422502 -->
 
 The subdocuments herein provide definitions for relevant parameters and values.
 
-###### A.6.1.1.1.3.4.2.3.1.1 - Current SubDAO Proxy Value [Core]  <!-- UUID: 9705a4be-e92f-4195-8e85-1cfe19ec1a0d -->
+###### A.6.1.1.1.3.4.2.3.1.1 - Current SubProxy Value [Core]  <!-- UUID: 9705a4be-e92f-4195-8e85-1cfe19ec1a0d -->
 
-The Current SubDAO Proxy Value is defined as the sum of all USDS tokens held in the Spark SubDAO on Ethereum at 0x3300f198988e4C9C63F75dF86De36421f06af8c4. Note that the operational process of excess SubDAO Proxy funds disposition as defined in [A.6.1.1.1.3.4.2.3.2 - Operational Process](dfa483c7-5adb-480e-9f82-c97cf4d0f74e) uses the most up-to-date onchain value for the Current SubDAO Proxy Value, and this does not need to be updated in the Spark Artifact as it is expected to fluctuate frequently based on monthly settlements and other operational processes.
+The Current SubProxy Value is defined as the sum of all USDS tokens held in the Spark SubProxy on Ethereum at 0x3300f198988e4C9C63F75dF86De36421f06af8c4. Note that the operational process of excess SubProxy funds disposition as defined in [A.6.1.1.1.3.4.2.3.2 - Operational Process](dfa483c7-5adb-480e-9f82-c97cf4d0f74e) uses the most up-to-date onchain value for the Current SubProxy Value, and this does not need to be updated in the Spark Artifact as it is expected to fluctuate frequently based on monthly settlements and other operational processes.
 
 ###### A.6.1.1.1.3.4.2.3.1.2 - Standard Buyback Rate [Core]  <!-- UUID: 796dc640-03a7-4608-b676-a235a68174b1 -->
 
-The Standard Buyback Rate defines the percentage of excess SubDAO Proxy value that is used for buybacks during each monthly cycle, up to the Enhanced Buyback Threshold.
+The Standard Buyback Rate defines the percentage of excess SubProxy value that is used for buybacks during each monthly cycle, up to the Enhanced Buyback Threshold.
 
 ###### A.6.1.1.1.3.4.2.3.1.3 - Enhanced Buyback Rate [Core]  <!-- UUID: 0efbdfe8-3ccd-4e6a-8195-a52e7f63c1d9 -->
 
-The Enhanced Buyback Rate defines the percentage of SubDAO Proxy value in excess of the Enhanced Buyback Threshold that is used for buybacks during each monthly cycle.
+The Enhanced Buyback Rate defines the percentage of SubProxy value in excess of the Enhanced Buyback Threshold that is used for buybacks during each monthly cycle.
 
 ###### A.6.1.1.1.3.4.2.3.1.4 - Enhanced Buyback Threshold [Core]  <!-- UUID: e150176c-1da5-4adb-ba5d-f344d0be03ae -->
 
-The Enhanced Buyback Threshold defines the threshold over which the Enhanced Buyback Rate is applied to calculate buyback amounts. This variable is specified as a percentage of the Target SubDAO Proxy Value; for example, a 200% Enhanced Buyback Threshold means that the Enhanced Buyback Rate will apply to any subDAO proxy value over 2x the Target SubDAO Proxy Value.
+The Enhanced Buyback Threshold defines the threshold over which the Enhanced Buyback Rate is applied to calculate buyback amounts. This variable is specified as a percentage of the Target SubProxy Value; for example, a 200% Enhanced Buyback Threshold means that the Enhanced Buyback Rate will apply to any SubProxy value over 2x the Target SubProxy Value.
 
 ###### A.6.1.1.1.3.4.2.3.1.5 - Buyback Executor [Core]  <!-- UUID: d6be588d-e76e-4413-8a3e-c1b59e5bd106 -->
 
-The Buyback Executor is the entity responsible for receiving excess SubDAO Proxy funds in USDS, purchasing SPK, and returning the SPK to the Spark SubDAO Proxy. Initially, this role will be performed by the Spark Operations Multisig.
+The Buyback Executor is the entity responsible for receiving excess SubProxy funds in USDS, purchasing SPK, and returning the SPK to the Spark SubProxy. Initially, this role will be performed by the Spark Operations Multisig.
 
 ###### A.6.1.1.1.3.4.2.3.2 - Operational Process [Core]  <!-- UUID: dfa483c7-5adb-480e-9f82-c97cf4d0f74e -->
 
-Each month, immediately following Spark’s monthly settlement with Sky, the Current SubDAO Proxy Value with be calculated based on the definition in [A.6.1.1.1.3.4.2.3.1.1 - Current SubDAO Proxy Value](9705a4be-e92f-4195-8e85-1cfe19ec1a0d), and the Target SubDAO Proxy Value based on the evaluation method in [A.6.1.1.1.3.4.2.2.2 - Evaluation Method](99d4b8da-fa5c-49ce-b93c-70d07334d7aa). If the Current SubDAO Proxy Value is greater than the Target SubDAO Proxy Value, this excess SubDAO Proxy Value is multiplied by the Standard Buyback Rate parameter up to the Enhanced Buyback Threshold, and then by the Enhanced Buyback Rate for any amount in excess of the Enhanced Buyback Threshold. The buyback amount for the month is set as the sum of the two values of the standard and enhanced buybacks.
+Each month, immediately following Spark’s monthly settlement with Sky, the Current SubProxy Value with be calculated based on the definition in [A.6.1.1.1.3.4.2.3.1.1 - Current SubProxy Value](9705a4be-e92f-4195-8e85-1cfe19ec1a0d), and the Target SubProxy Value based on the evaluation method in [A.6.1.1.1.3.4.2.2.2 - Evaluation Method](99d4b8da-fa5c-49ce-b93c-70d07334d7aa). If the Current SubProxy Value is greater than the Target SubProxy Value, this excess SubProxy Value is multiplied by the Standard Buyback Rate parameter up to the Enhanced Buyback Threshold, and then by the Enhanced Buyback Rate for any amount in excess of the Enhanced Buyback Threshold. The buyback amount for the month is set as the sum of the two values of the standard and enhanced buybacks.
 
-The next available Spark proxy Spell will include a transfer of this calculated buyback amount to the designated Buyback Executor. After using the transferred funds to purchase SPK, the Buyback Executor will transfer all accrued SPK to the Spark SubDAO Proxy.
+The next available Spark proxy Spell will include a transfer of this calculated buyback amount to the designated Buyback Executor. After using the transferred funds to purchase SPK, the Buyback Executor will transfer all accrued SPK to the Spark SubProxy.
 
 ###### A.6.1.1.1.3.4.2.3.3 - Parameters [Core]  <!-- UUID: b52a4011-5346-4de7-9522-90ae66b81600 -->
 
@@ -11033,7 +11033,7 @@ The current SPK contributor vesting parameters are:
     - End date: 16 June 2029
     - Vesting method: Linear per block with cliff
     - Claim auth: Permissionless
-- SubDAO Proxy actions
+- SubProxy actions
     - Approve SPK
         - Address: `0x6Bad07722818Ceff1deAcc33280DbbFdA4939A09`
         - Amount: 1.2 billion SPK (12% of total supply)
@@ -11472,10 +11472,7 @@ The subdocuments herein define the assets currently accepted as margin collatera
 - Staked and Wrapped Versions: Spark Savings USDC v2 (spUSDC) and v1 (sUSDC)
 
 ###### A.6.1.1.1.3.7.2.2.2.15 - Fully Reserved USD Stablecoins [Core]  <!-- UUID: 2782410b-2ba0-49d2-91e5-1de2a0e89ab8 -->
-
-- Collateral Haircut: -5%
-- Exposure Limit: not more than 20% of the circulating supply of any given stablecoin
-- Approved Versions: Paypal PYUSD, Paxos USDG, Ripple RLUSD, Ethena USDtb
+DRLUSD, Ethena USDtb
 
 ###### A.6.1.1.1.3.7.2.2.2.16 - Fully Reserved Major Non-USD Stablecoins [Core]  <!-- UUID: 79eb2c89-6107-4b56-a8fe-7f3582d4bd24 -->
 
@@ -11993,7 +11990,7 @@ The documents herein define the cancellation mechanisms and authorities for pend
 
 ##### A.6.1.1.1.3.9.6.1 - Authorized Cancellers [Core]  <!-- UUID: f87333c8-ec5e-4483-83a9-791e1f9f9634 -->
 
-Pending changes within the timelock must be able to be cancelled by any of the following: the Spark subdao proxy, or a designated guardian role.
+Pending changes within the timelock must be able to be cancelled by any of the following: the Spark SubProxy, or a designated guardian role.
 
 ##### A.6.1.1.1.3.9.6.2 - Cancellation Reasons [Core]  <!-- UUID: 0e572cad-bdf2-437f-b272-0cd634424b19 -->
 
