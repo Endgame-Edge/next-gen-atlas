@@ -1796,11 +1796,11 @@ The documents herein contain the ALM Contract Addresses for the Spark Liquidity 
 
 ###### A.6.1.1.1.2.6.1.2.1.1.1.2.1.1 - ALM Controller (MainnetController) Contract Address [Core]  <!-- UUID: 3546c2d3-7b7c-4446-aa16-ff357c1a7a0f -->
 
-The address of the ALM_CONTROLLER (MainnetController) contract is: `0x577Fa18a498e1775939b668B0224A5e5a1e56fc3`
+The address of the ALM_CONTROLLER (MainnetController) contract is: `0x5c46Fc65855c0C7465a1EA85EEA0B24B601502D3`
 
 ###### A.6.1.1.1.2.6.1.2.1.1.1.2.1.2 - ALM Controller (MainnetController) Contract Version [Core]  <!-- UUID: d7b0b6a0-0bac-4169-a006-4a375cba4baa -->
 
-The ALM_CONTROLLER (MainnetController) contract version is: 1.10
+The ALM_CONTROLLER (MainnetController) contract version is: 1.10.0
 
 ###### A.6.1.1.1.2.6.1.2.1.1.1.2.1.3 - ALM Freezer Multisig (Mainnet) Address [Core]  <!-- UUID: 8d6c5c86-4b70-4115-b712-65106416aa77 -->
 
@@ -1820,11 +1820,11 @@ The address of the ALM_RATE_LIMITS contract is: `0x7A5FD5cf045e010e62147F065cEAe
 
 ###### A.6.1.1.1.2.6.1.2.1.1.1.2.1.7 - ALM Proxy Freezable (Mainnet) Contract Address [Core]  <!-- UUID: a937f2e1-5f17-4c60-b007-fef5a7f00f5b -->
 
-The address of the ALM_PROXY_FREEZABLE contract is: `0x9Ad87668d49ab69EEa0AF091de970EF52b0D5178`
+The address of the ALM_PROXY_FREEZABLE contract is: `0xe5c6318456a7Cb6f74f93B4eee4616dB5fcef699`
 
 ###### A.6.1.1.1.2.6.1.2.1.1.1.2.1.8 - ALM Proxy Freezable (Mainnet) Contract Version [Core]  <!-- UUID: 5879057d-df2d-4f23-8927-9c6e5160edd2 -->
 
-The version of the ALM_PROXY_FREEZABLE contract is: 1.1
+The version of the ALM_PROXY_FREEZABLE contract is: 1.12.0
 
 ###### A.6.1.1.1.2.6.1.2.1.1.1.2.2 - Base [Core]  <!-- UUID: 339e27da-297e-458f-8420-546e085a51dd -->
 
@@ -1832,11 +1832,11 @@ The documents herein list the ALM Contract Addresses for the Spark Liquidity Lay
 
 ###### A.6.1.1.1.2.6.1.2.1.1.1.2.2.1 - ALM Controller (ForeignController Base) Contract Address [Core]  <!-- UUID: eaa1d582-a814-49ef-a3ec-3fbffa414a3a -->
 
-The address of the ALM_CONTROLLER (ForeignController) contract is: `0xC0bcbb2554D4694fe7b34bB68b9DdfbB55D896BC`
+The address of the ALM_CONTROLLER (ForeignController) contract is: `0x86036CE5d2f792367C0AA43164e688d13c5A60A8`
 
-###### A.6.1.1.1.2.6.1.2.1.1.1.2.2.2 - ALM Controller (ForeignController Base) Contract Version Address [Core]  <!-- UUID: 2f264586-051d-4944-9c15-c271a2a8a0b5 -->
+###### A.6.1.1.1.2.6.1.2.1.1.1.2.2.2 - ALM Controller (ForeignController Base) Contract Version [Core]  <!-- UUID: 2f264586-051d-4944-9c15-c271a2a8a0b5 -->
 
-The ALM_CONTROLLER (ForeignController) contract version is: 1.8
+The ALM_CONTROLLER (ForeignController) contract version is: 1.8.0
 
 ###### A.6.1.1.1.2.6.1.2.1.1.1.2.2.3 - ALM Freezer Multisig (Base) Address [Core]  <!-- UUID: 5147079e-3ff5-44c5-8039-5b1d3895ceec -->
 
@@ -1856,11 +1856,11 @@ The address of the ALM_RATE_LIMITS contract is: `0x983eC82E45C61a42FDDA7B3c43B8C
 
 ###### A.6.1.1.1.2.6.1.2.1.1.1.2.2.7 - ALM Proxy Freezable (Base) Contract Address [Core]  <!-- UUID: ab85b80b-096b-438d-ad9a-c4ece54274a8 -->
 
-The address of the ALM_PROXY_FREEZABLE contract is: `0xCBA0C0a2a0B6Bb11233ec4EA85C5bFfea33e724d`
+The address of the ALM_PROXY_FREEZABLE contract is: `0x92d7B06e5844e67174AE9E86bdCb06428482DDF9`
 
 ###### A.6.1.1.1.2.6.1.2.1.1.1.2.2.8 - ALM Proxy Freezable (Base) Contract Version [Core]  <!-- UUID: 68dd49b4-4d08-4a4d-a0b2-a294526ca30c -->
 
-The version of the ALM_PROXY_FREEZABLE contract is: 1.1
+The version of the ALM_PROXY_FREEZABLE contract is: 1.12.0
 
 ###### A.6.1.1.1.2.6.1.2.1.1.1.2.3 - Arbitrum [Core]  <!-- UUID: de02348b-d300-4b85-b7f9-5546106c5191 -->
 
@@ -1868,12 +1868,11 @@ This document contains the ALM Contract Addresses for the Spark Liquidity Layer 
 
 ###### A.6.1.1.1.2.6.1.2.1.1.1.2.3.1 - ALM Controller (ForeignController Arbitrum) Contract Address [Core]  <!-- UUID: 60979099-707d-497d-ad65-4fd6dd6c7cb0 -->
 
-The address of the ALM_CONTROLLER (ForeignController) contract is:
-TBC
+The address of the ALM_CONTROLLER (ForeignController) contract is: `0xC40611AC4Fff8572Dc5F02A238176edCF15Ea7ba`
 
 ###### A.6.1.1.1.2.6.1.2.1.1.1.2.3.2 - ALM Controller (ForeignController Arbitrum) Contract Version [Core]  <!-- UUID: ea182fbb-586b-4df2-ac03-ea8291702649 -->
 
-The ALM_CONTROLLER (ForeignController) contract version is: 1.8
+The ALM_CONTROLLER (ForeignController) contract version is: 1.8.0
 
 ###### A.6.1.1.1.2.6.1.2.1.1.1.2.3.3 - ALM Freezer Multisig (Arbitrum) Address [Core]  <!-- UUID: 294230e0-d7f9-43c5-9f38-d19074b61d47 -->
 
@@ -1891,17 +1890,25 @@ The address of the ALM_PROXY contract is: `0x92afd6F2385a90e44da3a8B60fe36f6cBe1
 
 The address of the ALM_RATE_LIMITS contract is: `0x19D08879851FB54C2dCc4bb32b5a1EA5E9Ad6838`
 
+###### A.6.1.1.1.2.6.1.2.1.1.1.2.3.7 - ALM Proxy Freezable (Arbitrum) Contract Address [Core]  <!-- UUID: 3679d683-b629-42d5-8119-39bd4f539d7d -->
+
+The address of the ALM_PROXY_FREEZABLE contract is: `0x4eE67c8Db1BAa6ddE99d936C7D313B5d31e8fa38`
+
+###### A.6.1.1.1.2.6.1.2.1.1.1.2.3.8 - ALM Proxy Freezable (Arbitrum) Contract Version [Core]  <!-- UUID: ff22b649-bd2b-4cf9-a417-3c55c462b5a4 -->
+
+The version of the ALM_PROXY_FREEZABLE contract is: 1.12.0
+
 ###### A.6.1.1.1.2.6.1.2.1.1.1.2.4 - Unichain [Core]  <!-- UUID: 6cd31b91-4309-49ae-8d23-2486129f3b20 -->
 
 This document contains the ALM Contract Addresses for the Spark Liquidity Layer on Unichain.
 
 ###### A.6.1.1.1.2.6.1.2.1.1.1.2.4.1 - ALM Controller (ForeignController Unichain) Contract Address [Core]  <!-- UUID: bcc685eb-d28c-4306-8b78-5639b1d31f6b -->
 
-The address of the ALM_CONTROLLER (ForeignController) contract is: TBC
+The address of the ALM_CONTROLLER (ForeignController) contract is: `0xF16DE710899C7bdd6D46873265392CCA68e5D5bA`
 
 ###### A.6.1.1.1.2.6.1.2.1.1.1.2.4.2 - ALM Controller (ForeignController Unichain) Contract Version [Core]  <!-- UUID: 17ff233f-2ada-4856-be5f-f3ba2616c1b7 -->
 
-The ALM_CONTROLLER (ForeignController) contract version is: 1.8
+The ALM_CONTROLLER (ForeignController) contract version is: 1.8.0
 
 ###### A.6.1.1.1.2.6.1.2.1.1.1.2.4.3 - ALM Freezer Multisig (Unichain) Address [Core]  <!-- UUID: 23bb04f0-d312-4230-930d-27782b73b04f -->
 
@@ -1925,11 +1932,11 @@ This document contains the ALM Contract Addresses for the Spark Liquidity Layer 
 
 ###### A.6.1.1.1.2.6.1.2.1.1.1.2.5.1 - ALM Controller (ForeignController Optimism) Contract Address [Core]  <!-- UUID: 1eaa9220-d5e2-44f2-83eb-232add8f04ff -->
 
-The address of the ALM_CONTROLLER (ForeignController) contract is: TBC
+The address of the ALM_CONTROLLER (ForeignController) contract is: `0x689502bc817E6374286af8f171Ed4715721406f7`
 
 ###### A.6.1.1.1.2.6.1.2.1.1.1.2.5.2 - ALM Controller (ForeignController Optimism) Contract Version [Core]  <!-- UUID: 715c19b6-63bc-4eae-b8a4-0327e9a10c71 -->
 
-The ALM_CONTROLLER (ForeignController) contract version is: 1.8
+The ALM_CONTROLLER (ForeignController) contract version is: 1.8.0
 
 ###### A.6.1.1.1.2.6.1.2.1.1.1.2.5.3 - ALM Freezer Multisig (Optimism) Address [Core]  <!-- UUID: a4cb2345-64a9-4e1f-b084-c25f6df7082a -->
 
@@ -1953,35 +1960,35 @@ This document contains the ALM Contract Addresses for the Spark Liquidity Layer 
 
 ###### A.6.1.1.1.2.6.1.2.1.1.1.2.6.1 - ALM Controller (ForeignController Avalanche) Contract Address [Core]  <!-- UUID: 2a9bf1bb-81f7-40d2-a26d-2cc7e729913f -->
 
-The address of the ALM_CONTROLLER (ForeignController) contract address is: `0x4E64b576F72c237690F27727376186639447f096`
+The address of the ALM_CONTROLLER (ForeignController) contract is: `0x4eE67c8Db1BAa6ddE99d936C7D313B5d31e8fa38`
 
 ###### A.6.1.1.1.2.6.1.2.1.1.1.2.6.2 - ALM Controller (ForeignController Avalanche) Contract Version [Core]  <!-- UUID: 0bf9305e-df4e-4f12-9051-a4974fd7272c -->
 
-The ALM_CONTROLLER (ForeignController) contract version is: 1.8
+The ALM_CONTROLLER (ForeignController) contract version is: 1.8.0
 
 ###### A.6.1.1.1.2.6.1.2.1.1.1.2.6.3 - ALM Freezer Multisig (Avalanche) Address [Core]  <!-- UUID: abe7f425-65fd-4a3a-b70c-55a8f30e708d -->
 
-The address of the Multisig that has the Freezer Role is specified in TBD.
+The address of the Multisig that has the Freezer Role is specified in [A.6.1.1.1.2.6.1.2.1.2.2.3.1 - Address](51777bdd-df5f-4a6e-93f5-8163d981f595).
 
 ###### A.6.1.1.1.2.6.1.2.1.1.1.2.6.4 - ALM Relayer Multisig (Avalanche) Address [Core]  <!-- UUID: 229a9ce0-30bd-4069-a8a9-2ff911185b66 -->
 
-The address of the Multisigs that has the Relayer Role will be specified in a future iteration of the artifact.
+The address of the Multisigs that has the Relayer Role are specified in [A.6.1.1.1.2.6.1.2.1.2.2.1.1 - Address](67bf2799-8d57-44be-82e4-827912ff30df) and [A.6.1.1.1.2.6.1.2.1.2.2.2.1 - Address](567e4905-2b05-493e-95ac-8a4d20afed2b).
 
 ###### A.6.1.1.1.2.6.1.2.1.1.1.2.6.5 - ALM Proxy (Avalanche) Contract [Core]  <!-- UUID: 179f186a-079b-4663-b06c-b21f9dec85ca -->
 
-The address of the ALM_PROXY contract is: `TBD`
+The address of the ALM_PROXY contract is: `0xecE6B0E8a54c2f44e066fBb9234e7157B15b7FeC`
 
 ###### A.6.1.1.1.2.6.1.2.1.1.1.2.6.6 - ALM Rate Limits (Avalanche) Contract [Core]  <!-- UUID: 43462d47-89bf-4166-88de-8601eb6ac7ad -->
 
-The address of the ALM_RATE_LIMITS contract is: `TBD`
+The address of the ALM_RATE_LIMITS contract is: `0xb79972e8B21f0dE911E65AC342ac85ad38C9A77a`
 
 ###### A.6.1.1.1.2.6.1.2.1.1.1.2.6.7 - ALM Proxy Freezable (Avalanche) Contract Address [Core]  <!-- UUID: 4eb4959c-a91b-4a00-a605-138ac53b0786 -->
 
-The address of the ALM_PROXY_FREEZABLE contract is: `0x45d91340B3B7B96985A72b5c678F7D9e8D664b62`
+The address of the ALM_PROXY_FREEZABLE contract is: `0x93c81ADc7F98FdBC8C7a15eCBeD312c8F6adbcB3`
 
 ###### A.6.1.1.1.2.6.1.2.1.1.1.2.6.8 - ALM Proxy Freezable (Avalanche) Contract Version [Core]  <!-- UUID: 7594b5c7-8ba4-4b81-a737-acb76858d762 -->
 
-The version of the ALM_PROXY_FREEZABLE contract is: 1.1
+The version of the ALM_PROXY_FREEZABLE contract is: 1.12.0
 
 ###### A.6.1.1.1.2.6.1.2.1.1.1.2.6.9 - Governance Bridge Protection [Core]  <!-- UUID: dfffb528-049b-4f11-98cd-25c908d3385a -->
 
@@ -2013,7 +2020,7 @@ This document contains the ALM Contract Addresses for the Spark Liquidity Layer 
 
 ###### A.6.1.1.1.2.6.1.2.1.1.1.2.7.1 - ALM Controller (ForeignController Robinhood Chain) Contract Address [Core]  <!-- UUID: 48b6b65d-6a28-4d33-a026-8dd6e646c610 -->
 
-The address of the ALM_CONTROLLER (ForeignController) contract address is: `0xcf8d58A6eeF2a1cae2Ce69bC463b1178FB76bA1E`
+The address of the ALM_CONTROLLER (ForeignController) contract is: `0xcf8d58A6eeF2a1cae2Ce69bC463b1178FB76bA1E`
 
 ###### A.6.1.1.1.2.6.1.2.1.1.1.2.7.2 - ALM Controller (ForeignController Robinhood Chain) Contract Version [Core]  <!-- UUID: 13fcfb0e-3628-4dd1-9823-cdc99b478d97 -->
 
@@ -2025,7 +2032,7 @@ The address of the Multisig that has the Freezer Role is: `0x2d5Aa449FB8C5646C81
 
 ###### A.6.1.1.1.2.6.1.2.1.1.1.2.7.4 - ALM Relayer Multisig (Robinhood Chain) Address [Core]  <!-- UUID: 88d4702c-da76-4fe8-a748-65f558953276 -->
 
-The address of the Multisig that has the Relayer Role is: `0x0ca8f938Aba2214eA11eb451e795A8ef7B720C18`.
+The addresses of the Multisigs that have the Relayer Role are: `0x0ca8f938Aba2214eA11eb451e795A8ef7B720C18` and `0x52CC27896e641Cbe88F0aD36480839961A47CdF8`.
 
 ###### A.6.1.1.1.2.6.1.2.1.1.1.2.7.5 - ALM Proxy (Robinhood Chain) Contract [Core]  <!-- UUID: d19eab7d-e0b8-4be2-b672-40d7773c6119 -->
 
@@ -2035,13 +2042,21 @@ The address of the ALM_PROXY contract is: `0xfD2fD4B046136B540A56C11c75ac679AE7d
 
 The address of the ALM_RATE_LIMITS contract is: `0x5c1fDE9d4C7f1BF4bc5dEAA2a7752e56232c68a0`
 
+###### A.6.1.1.1.2.6.1.2.1.1.1.2.7.7 - ALM Proxy Freezable (Robinhood Chain) Contract Address [Core]  <!-- UUID: e3828279-2389-4f8c-996b-1946a81bbb63 -->
+
+The address of the ALM_PROXY_FREEZABLE contract is: `0xAEa9f5dE56e6C20383a1fcC2C3629Dca0A92cE41`
+
+###### A.6.1.1.1.2.6.1.2.1.1.1.2.7.8 - ALM Proxy Freezable (Robinhood Chain) Contract Version [Core]  <!-- UUID: c80dd725-e796-40e4-b1b4-4aa62743c56c -->
+
+The version of the ALM_PROXY_FREEZABLE contract is: 1.12.0
+
 ###### A.6.1.1.1.2.6.1.2.1.1.1.2.8 - X Layer [Core]  <!-- UUID: 9c35c0e5-d7b9-4538-a87b-3290897e35e4 -->
 
 This document contains the ALM Contract Addresses for the Spark Liquidity Layer on X Layer.
 
 ###### A.6.1.1.1.2.6.1.2.1.1.1.2.8.1 - ALM Controller (ForeignController X Layer) Contract Address [Core]  <!-- UUID: 63430cf9-0f5d-4a22-9879-6b9ecb8b9ee9 -->
 
-The address of the ALM_CONTROLLER (ForeignController) contract address is: `0xf9187C99Ee842beABE8e2e346d958315BFc9331f`
+The address of the ALM_CONTROLLER (ForeignController) contract is: `0xf9187C99Ee842beABE8e2e346d958315BFc9331f`
 
 ###### A.6.1.1.1.2.6.1.2.1.1.1.2.8.2 - ALM Controller (ForeignController X Layer) Contract Version [Core]  <!-- UUID: 65892a16-5e68-4a90-a2e5-89139aaa6823 -->
 
@@ -2049,11 +2064,11 @@ The ALM_CONTROLLER (ForeignController) contract version is: 1.10.0
 
 ###### A.6.1.1.1.2.6.1.2.1.1.1.2.8.3 - ALM Freezer Multisig (X Layer) Address [Core]  <!-- UUID: ed5c698b-cca9-43b8-965f-1dacd3ec46b3 -->
 
-The address of the Multisig that has the Freezer Role is: `0x8a25A24EDE9482C4Fc0738F99611BE58F1c839AB`.
+The address of the Multisig that has the Freezer Role is: `0x90D8c80C028B4C09C0d8dcAab9bbB057F0513431`.
 
 ###### A.6.1.1.1.2.6.1.2.1.1.1.2.8.4 - ALM Relayer Multisig (X Layer) Address [Core]  <!-- UUID: 7248a5ae-a45e-46a1-9cee-a8cb0b391ff8 -->
 
-The address of the Multisig that has the Relayer Role is: `0x90D8c80C028B4C09C0d8dcAab9bbB057F0513431`.
+The addresses of the Multisigs that have the Relayer Role are: `0x8a25A24EDE9482C4Fc0738F99611BE58F1c839AB` and `0x9330edE0Fc6E3E0D47Ebf3C145efd569796aC7F5`.
 
 ###### A.6.1.1.1.2.6.1.2.1.1.1.2.8.5 - ALM Proxy (X Layer) Contract [Core]  <!-- UUID: eac738f2-1b92-4ea2-a3e7-79fd528ae587 -->
 
@@ -2062,6 +2077,14 @@ The address of the ALM_PROXY contract is: `0x83A914C361bB729EB6BEBC8C7bA993667A0
 ###### A.6.1.1.1.2.6.1.2.1.1.1.2.8.6 - ALM Rate Limits (X Layer) Contract [Core]  <!-- UUID: bd7ba684-2c40-4290-b263-0de4fd1f9aad -->
 
 The address of the ALM_RATE_LIMITS contract is: `0x7F7E2286983994c4403Cf2B86758cE0e7bA666a8`
+
+###### A.6.1.1.1.2.6.1.2.1.1.1.2.8.7 - ALM Proxy Freezable (X Layer) Contract Address [Core]  <!-- UUID: 0501da5c-6631-41fe-bce3-297c1d384184 -->
+
+The address of the ALM_PROXY_FREEZABLE contract is: `0x9449ed367C60ea757544fd990B57e1C2D0Ec3A94`
+
+###### A.6.1.1.1.2.6.1.2.1.1.1.2.8.8 - ALM Proxy Freezable (X Layer) Contract Version [Core]  <!-- UUID: 557061d8-83ba-42d2-b413-13c95f435fcd -->
+
+The version of the ALM_PROXY_FREEZABLE contract is: 1.12.0
 
 ###### A.6.1.1.1.2.6.1.2.1.1.2 - Off-Chain Operational Parameters [Core]  <!-- UUID: 257dcfcb-9bb8-4989-a063-69ae4f01f224 -->
 
@@ -2205,28 +2228,24 @@ The maximum amount of USDC that can be withdrawn from the PSM (`LIMIT_PSM_WITHDR
 The maximum amount of USDS that can be deposited into the PSM (`LIMIT_PSM_DEPOSIT_USDS`) is specified in the document herein.
 
 - `maxAmount`: Unlimited
-- `slope`: Unlimited
 
 ###### A.6.1.1.1.2.6.1.2.1.1.3.2.4 - Base USDS Withdrawal Maximum [Core]  <!-- UUID: 2cac91fb-e1e2-443d-ad12-ee45211eba1d -->
 
 The maximum amount of USDS that can be withdrawn from the PSM (`LIMIT_PSM_WITHDRAW_USDS`) is specified in the document herein.
 
 - `maxAmount`: Unlimited
-- `slope`: 0
 
 ###### A.6.1.1.1.2.6.1.2.1.1.3.2.5 - Base sUSDS Deposit Maximum [Core]  <!-- UUID: f9e926e1-e127-42ec-883d-d11baecb0fd6 -->
 
 The maximum amount of sUSDS that can be deposited into the PSM (`LIMIT_PSM_DEPOSIT_SUSDS`) is specified in the document herein.
 
 - `maxAmount`: Unlimited
-- `slope`: Unlimited
 
 ###### A.6.1.1.1.2.6.1.2.1.1.3.2.6 - Base sUSDS Withdrawal Maximum [Core]  <!-- UUID: 521cc062-0b43-4d93-91c3-fdc29e4792f1 -->
 
 The maximum amount of sUSDS that can be withdrawn from the PSM (`LIMIT_PSM_WITHDRAW_SUSDS`) is specified in the document herein.
 
 - `maxAmount`: Unlimited
-- `slope`: 0
 
 ###### A.6.1.1.1.2.6.1.2.1.1.3.2.7 - USDC Base ALM Proxy Maximum [Core]  <!-- UUID: 59bc4c89-3edf-4a1b-a288-151cd5cfc624 -->
 
@@ -2250,29 +2269,27 @@ The documents herein list the current `RateLimits` for the Spark Liquidity Layer
 
 The maximum amount of USDC that can be deposited into the PSM (`LIMIT_PSM_DEPOSIT_USDC`) is specified in the document herein.
 
-- `maxAmount`: This parameter will be specified in a future iteration of the Spark Artifact.
-- `slope`: This parameter will be specified in a future iteration of the Spark Artifact.
+- `maxAmount`: 50,000,000 USDC
+- `slope`: 50,000,000 USDC per day
 
 ###### A.6.1.1.1.2.6.1.2.1.1.3.3.2 - Arbitrum USDC Withdrawal Maximum [Core]  <!-- UUID: f7e5dc3b-b26c-4a44-9e0b-0b385ad22704 -->
 
 The maximum amount of USDC that can be withdrawn from the PSM (`LIMIT_PSM_WITHDRAW_USDC`) is specified in the document herein.
 
-- `maxAmount`: This parameter will be specified in a future iteration of the Spark Artifact.
-- `slope`: This parameter will be specified in a future iteration of the Spark Artifact.
+- `maxAmount`: 50,000,000 USDC
+- `slope`: 50,000,000 USDC per day
 
 ###### A.6.1.1.1.2.6.1.2.1.1.3.3.3 - Arbitrum USDS Deposit Maximum [Core]  <!-- UUID: ddf6a5b7-5c41-4c80-8ad9-0222ef558fb4 -->
 
 The maximum amount of USDS that can be deposited into the PSM (`LIMIT_PSM_DEPOSIT_USDS`) is specified in the document herein.
 
-- `maxAmount`: This parameter will be specified in a future iteration of the Spark Artifact.
-- `slope`: This parameter will be specified in a future iteration of the Spark Artifact.
+- `maxAmount`: Unlimited
 
 ###### A.6.1.1.1.2.6.1.2.1.1.3.3.4 - Arbitrum USDS Withdrawal Maximum [Core]  <!-- UUID: f5a14451-b476-46ea-91e8-009f6230ac3e -->
 
 The maximum amount of USDS that can be withdrawn from the PSM (`LIMIT_PSM_WITHDRAW_USDS`) is specified in the document herein.
 
-- `maxAmount`: This parameter will be specified in a future iteration of the Spark Artifact.
-- `slope`: This parameter will be specified in a future iteration of the Spark Artifact.
+- `maxAmount`: Unlimited
 
 ###### A.6.1.1.1.2.6.1.2.1.1.3.3.5 - Arbitrum sUSDS Deposit Maximum [Core]  <!-- UUID: 8be6ab2f-9b82-4727-be24-e2d6ac5c4c5f -->
 
@@ -2291,8 +2308,8 @@ The maximum amount of sUSDS that can be withdrawn from the PSM (`LIMIT_PSM_WITHD
 
 The maximum amount of USDT that can be sent to the Arbitrum ALM Proxy (`LIMIT_USDT_TO_DOMAIN`, hashed with Arbitrum domain) is specified in the document herein.
 
-- `maxAmount` (USDT): 5,000,000
-- `slope` (USDT/ day): 50,000,000
+- `maxAmount`: 5,000,000 USDT
+- `slope`: 50,000,000 USDT per day
 
 ###### A.6.1.1.1.2.6.1.2.1.1.3.4 - Unichain [Core]  <!-- UUID: 40eb29f0-9d83-4c83-ae68-ea46b9f1bcac -->
 
@@ -2317,21 +2334,18 @@ The maximum amount of USDC that can be withdrawn from the PSM (`LIMIT_PSM_WITHDR
 The maximum amount of USDS that can be deposited into the PSM (`LIMIT_PSM_DEPOSIT_USDS`) is specified in the document herein.
 
 - `maxAmount`: Unlimited
-- `slope`: Unlimited
 
 ###### A.6.1.1.1.2.6.1.2.1.1.3.4.4 - Unichain USDS Withdrawal Maximum [Core]  <!-- UUID: 3a6e6efd-314a-4f21-b238-0ffa148fb8e3 -->
 
 The maximum amount of USDS that can be withdrawn from the PSM (`LIMIT_PSM_WITHDRAW_USDS`) is specified in the document herein.
 
 - `maxAmount`: Unlimited
-- `slope`: Unlimited
 
 ###### A.6.1.1.1.2.6.1.2.1.1.3.4.5 - Unichain sUSDS Deposit Maximum [Core]  <!-- UUID: 1741e5ba-e45a-4960-b193-f8bee9d595c9 -->
 
 The maximum amount of sUSDS that can be deposited into the PSM (`LIMIT_PSM_DEPOSIT_SUSDS`) is specified in the document herein.
 
 - `maxAmount`: Unlimited
-- `slope`: Unlimited
 
 ###### A.6.1.1.1.2.6.1.2.1.1.3.4.6 - Unichain sUSDS Withdrawal Maximum [Core]  <!-- UUID: 16004284-de05-4ee4-a9db-762de1270de9 -->
 
@@ -2362,21 +2376,18 @@ The maximum amount of USDC that can be withdrawn from the PSM (`LIMIT_PSM_WITHDR
 The maximum amount of USDS that can be deposited into the PSM (`LIMIT_PSM_DEPOSIT_USDS`) is specified in the document herein.
 
 - `maxAmount`: Unlimited
-- `slope`: Unlimited
 
 ###### A.6.1.1.1.2.6.1.2.1.1.3.5.4 - Optimism USDS Withdrawal Maximum [Core]  <!-- UUID: f04f600b-3cc0-4c10-8540-1dce56d130e2 -->
 
 The maximum amount of USDS that can be withdrawn from the PSM (`LIMIT_PSM_WITHDRAW_USDS`) is specified in the document herein.
 
 - `maxAmount`: Unlimited
-- `slope`: Unlimited
 
 ###### A.6.1.1.1.2.6.1.2.1.1.3.5.5 - Optimism sUSDS Deposit Maximum [Core]  <!-- UUID: ae241843-1492-42b4-8a66-687701ba4dc0 -->
 
 The maximum amount of sUSDS that can be deposited into the PSM (`LIMIT_PSM_DEPOSIT_SUSDS`) is specified in the document herein.
 
 - `maxAmount`: Unlimited
-- `slope`: Unlimited
 
 ###### A.6.1.1.1.2.6.1.2.1.1.3.5.6 - Optimism sUSDS Withdrawal Maximum [Core]  <!-- UUID: a9d4793d-da6a-440e-9435-993070700b60 -->
 
@@ -2393,14 +2404,12 @@ The documents herein list the current `RateLimits` for the Spark Liquidity Layer
 The maximum amount of USDC that can be deposited into the PSM (`LIMIT_PSM_DEPOSIT_USDC`) is specified in the document herein.
 
 - `maxAmount`: Unlimited
-- `slope`: Unlimited
 
 ###### A.6.1.1.1.2.6.1.2.1.1.3.6.2 - Avalanche USDC Withdrawal Maximum [Core]  <!-- UUID: 8b9fa488-8005-488a-8537-11a8bdcb205b -->
 
 The maximum amount of USDC that can be withdrawn from the PSM (`LIMIT_PSM_WITHDRAW_USDC`) is specified in the document herein.
 
 - `maxAmount`: Unlimited
-- `slope`: Unlimited
 
 ###### A.6.1.1.1.2.6.1.2.1.1.3.6.3 - USDC Avalanche ALM Proxy Maximum [Core]  <!-- UUID: 59673606-e50f-4c75-86e1-6bbc968321f0 -->
 
@@ -2424,16 +2433,16 @@ The documents herein list the current `RateLimits` for the Spark Liquidity Layer
 
 The maximum amount of USDG that can be transferred from the Robinhood Chain ALM Proxy is specified in the document herein.
 
-- `maxAmount` (USDG): 50,000,000
-- `slope` (USDG/ day): 250,000,000
+- `maxAmount`: 50,000,000 USDG
+- `slope`: 250,000,000 USDG per day
 - Recipient: `0x17C0F5345d1144fdF670D14719077be3842E5087`
 
 ###### A.6.1.1.1.2.6.1.2.1.1.3.7.2 - USDG Robinhood Chain ALM Proxy Maximum [Core]  <!-- UUID: bb47f741-e64b-440c-822c-3937fe94e87e -->
 
 The maximum amount of USDG that can be sent to the Robinhood Chain ALM Proxy is specified in the document herein.
 
-- `maxAmount` (USDG): 50,000,000
-- `slope` (USDG/ day): 250,000,000
+- `maxAmount`: 50,000,000 USDG
+- `slope`: 250,000,000 USDG per day
 - Recipient: `0xf752cF318dfF2C01575c98741AA52e7a34d873Fd`
 
 ###### A.6.1.1.1.2.6.1.2.1.1.3.8 - X Layer [Core]  <!-- UUID: 76127cf5-4b2e-4c2f-8d8a-352759e5a149 -->
@@ -2444,8 +2453,8 @@ The documents herein list the current `RateLimits` for the Spark Liquidity Layer
 
 The maximum amount of USDT that can be sent to the X Layer ALM Proxy is specified in the document herein.
 
-- `maxAmount` (USDT): 5,000,000
-- `slope` (USDT/ day): 100,000,000
+- `maxAmount`: 5,000,000 USDT
+- `slope`: 100,000,000 USDT per day
 
 ###### A.6.1.1.1.2.6.1.2.1.2 - Governance Processes [Core]  <!-- UUID: 9e74aa40-898f-4389-ba3d-8590c12f075d -->
 
