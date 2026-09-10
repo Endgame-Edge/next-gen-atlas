@@ -9506,9 +9506,7 @@ Submission of a Delegate Application does not guarantee acceptance. Acceptance i
 
 ###### A.6.1.1.1.3.1.3.4.3 - Minimum Term [Core]  <!-- UUID: c612d4e4-96c4-4ccf-a830-7f742338cfd9 -->
 
-Effective upon approval of this proposal, Delegates are appointed by the Spark Foundation to fixed six (6) month terms aligned to calendar half-years (January 1–June 30; July 1–December 31). To continue beyond a term, a Delegate must be re-approved by the Spark Foundation prior to term end; absent re-approval, the Delegate is automatically offboarded at term end pursuant to [A.6.1.1.1.3.1.3.5.5 - Term-End Automatic Offboarding](02deeacc-5305-4a08-a5aa-2aabeb5591be).
-
-Transition. Delegates serving prior to approval are automatically rolled over into this structure and deemed approved through June 30, 2026. For the avoidance of doubt, there will be no re-approval on January 1, 2026; the first re-approval checkpoint is July 1, 2026 for all such Delegates.
+Delegates are appointed by the Spark Foundation to fixed six (6) month terms aligned to calendar half-years (January 1–June 30; July 1–December 31). To continue beyond a term, a Delegate must be re-approved by the Spark Foundation prior to term end; absent re-approval, the Delegate is automatically offboarded at term end pursuant to [A.6.1.1.1.3.1.3.5.5 - Term-End Automatic Offboarding](02deeacc-5305-4a08-a5aa-2aabeb5591be).
 
 ###### A.6.1.1.1.3.1.3.4.4 - Delegate Record [Core]  <!-- UUID: 708a614c-115e-470c-b076-52834422ebc9 -->
 
@@ -9551,7 +9549,7 @@ Delegates are compensated for their service as follows:
 
 1. Compensation Amount. Active Delegates receive USD 4,000 per calendar month.
 2. Administration. The Spark Foundation administers compensation from its approved operating budget.
-3. Timing & Proration. The compensation structure goes into effect by December 1st 2025, with first payment being made January 2026. Payment is made monthly in arrears and prorated for partial months of service.
+3. Timing & Proration. Payment is made monthly in arrears and prorated for partial months of service.
 4. Eligibility & Clawback. Payment requires the Delegate to be in good standing and to have met responsibilities in [A.6.1.1.1.3.1.3.3 - Delegate Responsibilities](f230ba4e-eb5a-444e-b07a-13a0292338bd) during the covered period; the Spark Foundation may withhold or claw back amounts for non-performance or breach.
 5. No Waiver of Oversight. Compensation does not limit or waive any onboarding, renewal, or offboarding requirements.
 
@@ -10786,9 +10784,9 @@ Once SPK tokens launch, the virtual revenue share system will be discontinued, a
 
 ###### A.6.1.1.1.3.2.1.2.3.2 - Standard Agreement Post SPK Launch [Core]  <!-- UUID: bb867551-5231-4a5b-ac37-09d545bf70ce -->
 
-Post SPK launch, the following revenue-share operational process takes effect. The revenue share payment must be calculated manually at the end of each quarter by the Spark and manually paid as Dai to a smart contract under the control of Aave Governance from Spark. The payments must occur for the revenue share duration of two (2) years, starting from September 25th, 2023.
+Post SPK launch, the following revenue-share operational process takes effect. The revenue share payment must be calculated manually at the end of each quarter by the Spark and manually paid as USDS to a smart contract under the control of Aave Governance from Spark. The payments must occur for the revenue share duration of two (2) years, starting from September 25th, 2023.
 
-If at any point in time after the launch of Agent tokens, Spark Protocol is generating less than 1 million Dai per year in income for Spark Agent, accrual towards the revenue share payments are paused (unpaid revenue share that already accrued is still paid out at the end of the quarter), and the counting down of the revenue share duration is paused. The revenue share payments and the counting down of the remaining revenue share duration is resumed when Spark Protocol is generating more than 1 million Dai per year in income again.
+If at any point in time after the launch of Agent tokens, Spark Protocol is generating less than 1 million USDS per year in income for Spark Agent, accrual towards the revenue share payments are paused (unpaid revenue share that already accrued is still paid out at the end of the quarter), and the counting down of the revenue share duration is paused. The revenue share payments and the counting down of the remaining revenue share duration is resumed when Spark Protocol is generating more than 1 million USDS per year in income again.
 
 ##### A.6.1.1.1.3.2.1.3 - Data Repository [Core]  <!-- UUID: 2301085e-3492-422b-8b75-c6dd6564ef29 -->
 
@@ -10804,22 +10802,18 @@ The parameters of the Spark Pre-launch Token Rewards are specified in the subdoc
 
 ###### A.6.1.1.1.3.2.2.1.1 - Conditions For The Pre-launch Token Rewards [Core]  <!-- UUID: 93dddb43-1d2e-4ea8-ab18-eb0518a193ba -->
 
-Spark has a pre-launch token rewards program based on the usage of its lending platform. Users of the platform will receive an airdrop of SPK tokens, depending on how much and how long they have used the platform during the pre-launch token reward period. These rewards are only for users on Ethereum Mainnet.
+Spark had a pre-launch token rewards program based on the usage of its lending platform. Users of the platform have received an airdrop of SPK tokens, depending on how much and how long they had used the platform during the pre-launch token reward period. These rewards were only for users on Ethereum Mainnet.
 
-There are two seasons of the Spark pre-launch token rewards: Season 1 and Season 2.
+There were two seasons of the Spark pre-launch token rewards: Season 1 and Season 2.
 
-Season 1 of pre-launch token rewards was active from August 20 2023 and lasted for nine months, ending on May 20 2024. 130,434,783 SPK tokens were allocated in this period.
+Season 1 of pre-launch token rewards was active from August 20, 2023 and lasted for nine months, ending on May 20, 2024. 130,434,783 SPK tokens were allocated in this period.
 
-In Season 2 14,478,261 SPK will be rewarded per month to SparkLend users who qualify for the airdrop.
+Season 2 of pre-launch token rewards was active from May 20, 2024 and lasted for approximately 13 months, ending on June 16, 2025. The Season 2 pool was allocated at the following rates:
 
-Season 2 is an additional pre-farming period, which runs until the Spark Agent launches as part of Sky Endgame launch season.
+- SparkLend: 14,478,261 SPK per month. Of the SparkLend allocation, 80% was distributed pro rata to users borrowing USDS or DAI, and 20% was distributed pro rata to users supplying ETH during the Season 2 period.
+- Aave: 7,239,130 SPK per month, distributed pro rata to users who supplied USDS into Aave during the Season 2 period.
 
-The monthly SPK rewards are allocated as follows:
-
-- 80 % is allocated to users borrowing DAI and/or USDS
-- 20 % is allocated to users supplying ETH
-
-The proposed full anti-cheat SPK Airdrop for SparkLend is calculated using the following formula:
+The proposed full anti-cheat SPK Airdrop for SparkLend was calculated using the following formula:
 
 `Airdrop = 80% * (DAI Borrows + USDS Borrows - sDAI Supplies * sDAI Liquidation Threshold - sUSDS Supplies * sUSDS Liquidation Threshold) + 20% * (ETH Supplies - ETH Borrows / ETH Liquidation Threshold)`
 
