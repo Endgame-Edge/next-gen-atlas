@@ -4541,6 +4541,67 @@ Following that deadline, noncompliant Morpho vault allocations are subject to th
 
 For Grove's Morpho vault exposure, the deadline specified in [A.2.2.10.1.1.1.3.5 - Transition And Compliance](41824fb1-a4e0-4f58-9095-0b3e646fb42c) is extended by three (3) days beyond the execution of the October 8, 2026 Executive Vote, to account for daily rate limits on migrating that exposure to compliant vaults.
 
+###### A.2.2.10.1.1.1.3.6 - Curation Governance Process [Core]  <!-- UUID: 4f81276e-01d0-4403-a91b-4604a00045ac -->
+
+The documents herein define the minimum governance approval, disclosure, and reporting requirements for changes to Morpho vaults used by Prime Agents, so that the same categories of change are approved, disclosed, and reported in the same way across Prime Agents. These requirements apply to every change to a vault, its adapters, or its markets made by a holder of the Owner, Curator, Allocator, or Sentinel role, and to the corresponding roles of the vault's adapters. A Prime Agent Artifact may impose stricter requirements as specified in [A.2.2.10.1.1.1.3.6.3 - Relationship To Prime Agent Artifacts](315fb6f3-2e15-445e-bfd5-4974a8bdfe2e).
+
+###### A.2.2.10.1.1.1.3.6.1 - Change Categories [Core]  <!-- UUID: 2f9246e7-b8db-41da-b887-2174acc67276 -->
+
+Every change is classified into one of the categories defined in the documents herein. Where a change could fall into more than one category, the more demanding category applies, unless the change is an action taken as specified in [A.2.2.10.1.1.1.3.6.1.3 - Urgent And Emergency Actions](61280f9b-b183-4a9f-bb19-0a44b747c90e). Where the category of a change is unclear, the Prime Agent's Operational Facilitator determines the category, and Core GovOps may require that the more demanding category be applied.
+
+###### A.2.2.10.1.1.1.3.6.1.1 - Changes Requiring Governance Approval [Core]  <!-- UUID: f68aa50e-0eb4-4fb4-b145-616a06d8b646 -->
+
+The following changes must be approved through the Prime Agent's governance process, as defined in its Agent Artifact, before they are executed:
+
+- Onboarding a vault to, or offboarding a vault from, the Prime Agent's Allocation System Primitive, which remains subject to [A.2.2.10.1.1.2 - Allocation Instance Setup Process Definition](f47513f6-34e4-40a4-b7ff-8d68d75070be) and [A.2.2.10.1.1.3.3.1 - Modification Of Existing Instances](c1b5708c-e88f-45e0-92e1-b76e68b34f13).
+- Adding a market or an adapter to a vault, or setting or changing the adapter registry.
+- Increasing an absolute or relative cap.
+- Decreasing a timelock duration, except where the decrease is required to comply with [A.2.2.10.1.1.1.3.3 - Timelock Requirements](1078548f-1086-49d2-bc01-f5727f088e41).
+- Changing the holder of the Owner or Curator role, or of a Sentinel address required by [A.2.2.10.1.1.1.3.1 - Role Configuration](686b81a9-450d-4340-a25a-5a069cbe8788).
+- Adding an Allocator, other than the Morpho Public Allocator contract where its use is already recorded in the relevant Instance Configuration Document.
+- Setting or changing a gate.
+- Setting or changing a performance fee, a management fee, or a fee recipient.
+- Abdicating a function.
+- Any change not specified in [A.2.2.10.1.1.1.3.6.1.2 - Changes Requiring Disclosure Only](cd925225-9ff5-4efc-9e72-45d5bee862aa) that alters a value recorded in the relevant Instance Configuration Document, and any change that meets a condition specified in [A.2.2.10.1.1.3.3.1.1 - Conditions Requiring Artifact Edit Proposal](3db4c73f-f480-4da4-9af3-8ecedd89e166).
+
+A change in this category must not be executed before it is approved, whether or not it has already been submitted to a vault's timelock.
+
+###### A.2.2.10.1.1.1.3.6.1.2 - Changes Requiring Disclosure Only [Core]  <!-- UUID: cd925225-9ff5-4efc-9e72-45d5bee862aa -->
+
+The following changes do not require governance approval, but must be announced and reported as specified in [A.2.2.10.1.1.1.3.6.2 - Disclosure And Reporting Requirements](d2876b82-becc-4222-bfbe-33cfebd365aa):
+
+- Setting a role, a timelock duration, or another configuration value to the value required by the [A.2.2.10.1.1.1.3 - Morpho Vault Curation Framework](915a36c0-754c-41f9-ada1-2fec0816f7b8), where the vault does not yet comply.
+- Decreasing an absolute or relative cap.
+- Increasing a timelock duration.
+- Removing an Allocator.
+- Adding or removing a Sentinel address beyond those required by [A.2.2.10.1.1.1.3.1 - Role Configuration](686b81a9-450d-4340-a25a-5a069cbe8788).
+- Setting or changing the force deallocate penalty.
+- Removing a market or an adapter from a vault, where the removal does not write off any vault assets held in that market or adapter.
+- Reallocating vault assets between markets or adapters within approved caps, including changes to the supply queue, the withdraw queue, the liquidity adapter, and the maximum rate.
+- Revoking a pending change.
+
+Where a change in this category alters a value recorded in the relevant Instance Configuration Document, the change may be executed before the Artifact is updated. The Operational Facilitator submits the corresponding Artifact update as a pull request on the basis of the change announcement, and merges it once the change has been executed and reported as specified in [A.2.2.10.1.1.1.3.6.2.2 - Execution Report](9fd23d82-efac-447b-a8bb-59cdcc974aa2). No further governance approval is required, as the change is already authorized by the documents herein.
+
+###### A.2.2.10.1.1.1.3.6.1.3 - Urgent And Emergency Actions [Core]  <!-- UUID: 61280f9b-b183-4a9f-bb19-0a44b747c90e -->
+
+In an Urgent or Emergency Situation, as defined in [A.1.9.1.1 - Definition Of Emergency Situations](5eafb29e-84a0-4a53-a798-3f958c880225), any change may be executed without prior approval or announcement under the provisions of the Prime Agent Artifact for urgent and emergency situations, provided that the Operational Facilitator declares the situation and the reasoning in a Forum post under the Prime Agent's Forum category, before execution where feasible and otherwise immediately after, unless doing so would endanger the Prime Agent or its users. A Sentinel may at any time revoke a pending change or deallocate vault assets, as described in [A.2.2.10.1.1.1.3.1 - Role Configuration](686b81a9-450d-4340-a25a-5a069cbe8788), without a declaration. Every such action must be reported as specified in [A.2.2.10.1.1.1.3.6.2.2 - Execution Report](9fd23d82-efac-447b-a8bb-59cdcc974aa2), and any governance approval or Artifact update that the change would otherwise require under [A.2.2.10.1.1.1.3.6.1.1 - Changes Requiring Governance Approval](f68aa50e-0eb4-4fb4-b145-616a06d8b646) or [A.2.2.10.1.1.1.3.6.1.2 - Changes Requiring Disclosure Only](cd925225-9ff5-4efc-9e72-45d5bee862aa) must be sought in the next available cycle.
+
+###### A.2.2.10.1.1.1.3.6.2 - Disclosure And Reporting Requirements [Core]  <!-- UUID: d2876b82-becc-4222-bfbe-33cfebd365aa -->
+
+The documents herein define how changes to Morpho vaults are announced before they are made and reported after they are made.
+
+###### A.2.2.10.1.1.1.3.6.2.1 - Change Announcement [Core]  <!-- UUID: bf77c136-f7bb-45d6-b624-a3220d92ec23 -->
+
+Before a change specified in [A.2.2.10.1.1.1.3.6.1.1 - Changes Requiring Governance Approval](f68aa50e-0eb4-4fb4-b145-616a06d8b646) or [A.2.2.10.1.1.1.3.6.1.2 - Changes Requiring Disclosure Only](cd925225-9ff5-4efc-9e72-45d5bee862aa) is submitted to a vault's timelock or, where no timelock applies, before it is executed, the change must be announced in a Forum post under the Prime Agent's Forum category. Where the vault was onboarded through a Technical Scope published as specified in [A.1.10.2.5.2.1.1 - Technical Scope Template Submission Requirements](a6acd80e-289a-4159-ba51-3399c5d90f3d), and the change involves no deployment of a new contract and no creation of a new market, the announcement must use the [A.1.10.2.5.2.4 - Vault Change Note Template](f82537ec-50d1-44a0-ae01-0270cc091793). Otherwise, the announcement must use the [A.1.10.2.5.2.1 - Technical Scope Template](b9ba6658-87a9-4421-9d20-386df8cea450).
+
+###### A.2.2.10.1.1.1.3.6.2.2 - Execution Report [Core]  <!-- UUID: 9fd23d82-efac-447b-a8bb-59cdcc974aa2 -->
+
+Within twenty-four (24) hours of submitting a change to a vault's timelock and, where execution occurs separately, within twenty-four (24) hours of executing it, the change must be reported as a reply to its announcement. The report must include the transaction hash, the UTC time at which the change becomes executable, a description of the change as submitted or executed, and a link to the related governance vote where applicable. An action taken as specified in [A.2.2.10.1.1.1.3.6.1.3 - Urgent And Emergency Actions](61280f9b-b183-4a9f-bb19-0a44b747c90e) must be reported within twenty-four (24) hours of execution in a Forum post under the Prime Agent's Forum category, stating the reason for the action, the transaction hash, and any Artifact update that the action requires. The report is made by the holder of the role that performed the action.
+
+###### A.2.2.10.1.1.1.3.6.3 - Relationship To Prime Agent Artifacts [Core]  <!-- UUID: 315fb6f3-2e15-445e-bfd5-4974a8bdfe2e -->
+
+The requirements specified in the documents herein are minimum requirements. A Prime Agent Artifact may require governance approval for changes that the documents herein require only to be disclosed, impose longer timelock delays or additional cancellation authorities, define the conditions under which a change may be submitted to a timelock before governance approval, and designate the entities responsible for announcements and reports. A Prime Agent Artifact may not exempt a change from the requirements specified in the documents herein. Where a Prime Agent Artifact in effect at the time this document is ratified imposes a stricter requirement, that requirement continues to apply.
+
 ###### A.2.2.10.1.1.1.6 - Security Specifications [Core]  <!-- UUID: 905a0c30-5758-48e8-9006-b52ced11fa42 -->
 
 The documents herein specify required security measures for the setup and ongoing management of the Allocation System Primitive.

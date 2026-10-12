@@ -4415,7 +4415,7 @@ The registered Spell Checklists are:
 The documents herein define Operational Reference Materials used in connection with infrastructure changes and contract deployments. Operational Reference Materials are maintained in the Ecosystem Operational References repository (https://github.com/soterlabs/ecosystem-operational-references). Users must verify their local copy is aligned with the latest version in the Ecosystem Operational References repository before each use of the reference materials.
 ###### A.1.10.2.5.2.1 - Technical Scope Template [Core]  <!-- UUID: b9ba6658-87a9-4421-9d20-386df8cea450 -->
 
-The Technical Scope Template is a standardized template for announcing any infrastructure changes, whether on-chain or off-chain. The Technical Scope Template must be completed for all infrastructure changes and submitted as specified in [A.1.10.2.5.2.1.1 - Technical Scope Template Submission Requirements](a6acd80e-289a-4159-ba51-3399c5d90f3d).
+The Technical Scope Template is a standardized template for announcing any infrastructure changes, whether on-chain or off-chain. The Technical Scope Template must be completed for all infrastructure changes and submitted as specified in [A.1.10.2.5.2.1.1 - Technical Scope Template Submission Requirements](a6acd80e-289a-4159-ba51-3399c5d90f3d). For a change to a Morpho vault that meets the conditions specified in [A.1.10.2.5.2.4 - Vault Change Note Template](f82537ec-50d1-44a0-ae01-0270cc091793), a completed Vault Change Note satisfies this requirement in place of the Technical Scope Template.
 
 ###### A.1.10.2.5.2.1.1 - Technical Scope Template Submission Requirements [Core]  <!-- UUID: a6acd80e-289a-4159-ba51-3399c5d90f3d -->
 
@@ -4446,6 +4446,18 @@ The Morpho Deployment Verification Guide defines the steps for verifying vault a
 ###### A.1.10.2.5.2.3.1 - Morpho Deployment Verification Guide Update Process [Core]  <!-- UUID: 5df5c86a-7efa-4c04-afda-dd9f3a21e596 -->
 
 The Morpho Deployment Verification Guide is maintained by Core GovOps. All changes to the guide must be submitted as Pull Requests to the Ecosystem Operational References repository (https://github.com/soterlabs/ecosystem-operational-references) and require two (2) approvals, one (1) from each Core Spell Team, before they can be merged.
+
+###### A.1.10.2.5.2.4 - Vault Change Note Template [Core]  <!-- UUID: f82537ec-50d1-44a0-ae01-0270cc091793 -->
+
+The Vault Change Note Template is a reduced form of the Technical Scope Template for announcing a change to a Morpho vault that has already been onboarded through a Technical Scope published as specified in [A.1.10.2.5.2.1.1 - Technical Scope Template Submission Requirements](a6acd80e-289a-4159-ba51-3399c5d90f3d). It may be used in place of the Technical Scope Template only where the change involves no deployment of a new contract and no creation of a new market, and falls within [A.2.2.10.1.1.1.3.6.1.1 - Changes Requiring Governance Approval](f68aa50e-0eb4-4fb4-b145-616a06d8b646) or [A.2.2.10.1.1.1.3.6.1.2 - Changes Requiring Disclosure Only](cd925225-9ff5-4efc-9e72-45d5bee862aa). A completed Vault Change Note must reference the Technical Scope post through which the vault was onboarded. Where the change alters the emergency actions or monitoring described in that Technical Scope, the affected sections must be updated and submitted as specified for security-sensitive sections in [A.1.10.2.5.2.1.1 - Technical Scope Template Submission Requirements](a6acd80e-289a-4159-ba51-3399c5d90f3d).
+
+###### A.1.10.2.5.2.4.1 - Vault Change Note Submission Requirements [Core]  <!-- UUID: 94f3fede-b2b2-4bc3-a3c7-f455e200508f -->
+
+The completed Vault Change Note must be published as a Forum post under the Prime Agent's Forum category, at the time specified in [A.2.2.10.1.1.1.3.6.2.1 - Change Announcement](bf77c136-f7bb-45d6-b624-a3220d92ec23), and the executed change must be reported as specified in [A.2.2.10.1.1.1.3.6.2.2 - Execution Report](9fd23d82-efac-447b-a8bb-59cdcc974aa2). Core GovOps may require that a Technical Scope be submitted in place of a Vault Change Note for any change.
+
+###### A.1.10.2.5.2.4.2 - Vault Change Note Template Update Process [Core]  <!-- UUID: c99d8ec4-dda5-4340-9c2e-ad5e358ae00f -->
+
+The Vault Change Note Template is maintained by Core GovOps. All changes must be submitted as Pull Requests to the Ecosystem Operational References repository (https://github.com/soterlabs/ecosystem-operational-references) and require two (2) approvals, one (1) from each Core Spell Team, before they can be merged.
 
 #### A.1.10.2.6 - Voting Process For Executive Votes [Core]  <!-- UUID: 3aa5bc98-91ce-4588-b345-a96af8ba2366 -->
 
